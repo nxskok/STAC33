@@ -1,7 +1,7 @@
 name: "Statistics for the Life and Social Sciences"
 output_dir: "."
 navbar:
-  title: "STAD29"
+  title: "STAC32"
   left:
     - text: "Home"
       href: index.html
