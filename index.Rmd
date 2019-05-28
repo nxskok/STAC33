@@ -1,14 +1,16 @@
 ---
-title: "STAD29"
+title: "STAC32"
 ---
 
-# Statistics for the Life and Social Sciences
+# Applications of Statistical Methods
 
 ## Ken Butler
 
 ![bad picture](ken.jpg){width=400px}
 
-Welcome to the home page for STA 1007 / STAD29. This is the place to look for all things course-related (notes, assignments, announcements etc., linked above) except for assignment hand-ins and marks, which will be on [Quercus](http://q.utoronto.ca).
+Welcome to the home page for STAC32. This is the place to look for all things course-related (notes, assignments, announcements etc., linked above) except for assignment hand-ins and marks, which will be on [Quercus](http://q.utoronto.ca).
+
+In this course, we learn R (and later SAS), and how to use this software for data organization and to apply statistical methods that you (mostly) already know.
 
 
 ## News
