@@ -6,7 +6,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Lecture notes"
-      href: lecture_notes.html
+      href: slides_c33.pdf
     - text: "Quercus"
       href: http://q.utoronto.ca
     - text: "PASIAS"
