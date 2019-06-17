@@ -10,7 +10,7 @@ title: "STAC33"
 
 Welcome to the home page for STAC33. This is the place to look for all things course-related (notes, assignments, announcements etc., linked above) except for assignment hand-ins and marks, which will be on [Quercus](http://q.utoronto.ca).
 
-In this course, we learn R (and at the end SAS), and how to use this software for data organization and to apply statistical methods that you (mostly) already know. I emphasize the communication of the results.
+In this course, we learn R (and at the end SAS), and how to use this software for data organization and to apply statistical methods that you (mostly) already know. I emphasize the communication of the results. That is to say, you need to *get* the answers, but you also need to be able to *explain to others* what the results mean, and *convince others why* what you have done is sensible.
 
 
 ## News
