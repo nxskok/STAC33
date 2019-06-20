@@ -13,5 +13,7 @@ navbar:
       href: http://ritsokiguess.site/pasias
     - text: "Old exams"
       href: old_exams.html
+    - text: "Ken's other courses"
+      href: http://ritsokiguess.site/home/courses.html
     - text: "Ken Butler homepage"
       href: http://ritsokiguess.site/home
