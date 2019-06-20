@@ -2,22 +2,7 @@
 title: "Old exams"
 ---
 
-Work required: process old exams with answers (possibly automate production of exams with answers)
+This is the first time that STAC33 has been taught, so there are no old exams yet.
 
-## Old midterm exams
+The style of the course is much like STAC32, so you will find [old STAC32 exams](http://ritsokiguess.site/STAC32/old_exams.html) useful. You may also find the advice given on that page worth reading.
 
-Year  | Exam                     | Figures
-------|--------------------------|----------------------------
-2016  | [exam](midterm-20161.pdf)  | [figures](midterm-20161-f.pdf)
-2017  | [exam](midterm-20171.pdf)  | [figures](midterm-20171-f.pdf)
-2018  | [exam](midterm-20181.pdf)  | [figures](midterm-20181-f.pdf)
-2019  | [exam](midterm-20191.pdf)  | [figures](midterm-20191-f.pdf)
-
-
-## Old final exams
-
-Year  | Exam                     | Figures
-------|--------------------------|----------------------------
-2017  | [exam](final-20171.pdf)  | [figures](final-20171-f.pdf)
-2018  | [exam](final-20181.pdf)  | [figures](final-20181-f.pdf)
-2019  | [exam](final-20191.pdf)  | [figures](final-20191-f.pdf)
