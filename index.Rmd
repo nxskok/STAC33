@@ -13,7 +13,7 @@ Welcome to the home page for STAC33. This is the place to look for all things co
 In this course, we learn R (and at the end SAS), and how to use this software for data organization and to apply statistical methods that you (mostly) already know. I emphasize the communication of the results. That is to say, you need to *get* the answers, but you also need to be able to *explain to others* what the results mean, and *convince others why* what you have done is sensible.
 
 
-## News
+## News (most recent at the top)
 
-- 2019-05-29 11:50: a distant hello from the past.
 - 2019-06-17 12:20: lecture notes link seems to work.
+- 2019-05-29 11:50: a distant hello from the past.
