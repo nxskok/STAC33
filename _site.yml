@@ -1,7 +1,7 @@
 name: "Applications of Statistical Methods"
 output_dir: "."
 navbar:
-  title: "STAC32"
+  title: "STAC33"
   left:
     - text: "Home"
       href: index.html
