@@ -17,8 +17,10 @@ proc import
   getnames=yes;
   
 proc print;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/coffee.txt";      
 proc import 
-  datafile='/home/ken/coffee.txt'
+  datafile=myurl
   dbms=dlm
   out=coffee
   replace;
@@ -47,8 +49,10 @@ proc import
   sheet=data;
   getnames=yes;
 proc print;    
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/ais.txt";
 proc import 
-  datafile='/home/ken/ais.txt'
+  datafile=myurl
   dbms=dlm
   out=sports
   replace;
@@ -90,8 +94,10 @@ proc means n;
 proc freq;
   tables Sport;
 proc means stddev;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/jays15-home.csv";
 proc import
-  datafile='/home/ken/jays15-home.csv'
+  datafile=myurl
     dbms=csv
     out=jays
     replace;
@@ -101,8 +107,10 @@ proc ttest h0=29327;
   var attendance;
   proc sgplot;
     vbox attendance / category=daynight;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/drp.txt";  
 proc import
-  datafile='/home/ken/drp.txt'
+  datafile=myurl
   dbms=dlm
   out=reading
   replace;
@@ -179,8 +187,10 @@ proc means;
     stddev=15
     groupns=10|34
     power=.;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/duality.txt";    
 proc import
-  datafile='/home/ken/duality.txt'
+  datafile=myurl
     dbms=dlm
     out=duality
     replace;
@@ -193,8 +203,10 @@ proc print;
     proc ttest alpha=0.10;
       var y;
       class group;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/irs.txt";    
 proc import
-  datafile='/home/ken/irs.txt'
+  datafile=myurl
     dbms=csv
     out=irs
     replace;
@@ -210,8 +222,10 @@ proc sgplot;
   vbox Time;
 proc univariate cipctldf;
   var Time;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/analgesic.txt";  
 proc import
-  datafile='/home/ken/analgesic.txt'
+  datafile=myurl
     dbms=dlm
     out=pain
     replace;
@@ -234,8 +248,10 @@ proc print;
     qqplot diff / normal(mu=-1.65 sigma=1.455);
 proc univariate;
   var diff;  
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/drp.txt";    
 proc import
-  datafile='/home/ken/drp.txt'
+  datafile=myurl
   dbms=dlm
   out=reading
   replace;
@@ -245,8 +261,10 @@ proc import
 proc npar1way median;
   var score;
   class group;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/jumping.txt";  
 proc import
-  datafile='/home/ken/jumping.txt'
+  datafile=myurl
     dbms=dlm
     out=rats
     replace;
@@ -271,8 +289,10 @@ proc mixed;
   model density=group / ddfm=satterth;
   repeated / group=group;
   lsmeans group / adjust=tukey adjdfe=row;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/ais.txt";
 proc import 
-  datafile='/home/ken/ais.txt'
+  datafile=myurl
   dbms=dlm
   out=sports
   replace;
@@ -342,8 +362,10 @@ data sports10;
   keep Sport Wt;
   
 proc print;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/pigs1.txt";      
 proc import 
-  datafile='/home/ken/pigs1.txt'
+  datafile=myurl
   dbms=dlm out=pigs replace;
   delimiter=' ';
   getnames=yes;
@@ -378,13 +400,15 @@ proc anova;
   class feed;
   model weight=feed;
   means feed / tukey;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/global.csv";
 proc import
-  datafile='/home/ken/utility.txt'
+    datafile=myurl
     dbms=dlm
     out=util
     replace;
-  delimiter=' ';
-  getnames=yes;
+    delimiter=' ';
+    getnames=yes;
 proc print data=util(obs=8);    
 proc sgplot;
   scatter x=usage y=demand;
@@ -399,8 +423,10 @@ proc sgplot;
   scatter x=usage y=rtdemand;
 proc reg;
   model rtdemand=usage;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/pigs.txt";
 proc import
-  datafile='/home/ken/pigs2.txt'
+  datafile=myurl
   out=pigs
   dbms=dlm
   replace;
@@ -411,8 +437,10 @@ proc print;
 proc glm;
   class feed;
   model weight=feed / solution;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/crickets2.csv";      
 proc import
-  datafile='/home/ken/crickets2.csv'
+  datafile=myurl
   out=crickets
   dbms=csv
   replace;
@@ -422,8 +450,10 @@ proc print data=crickets(obs=20);
 proc glm;
   class species;
   model pulse_rate=temperature species / solution;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/mydates.csv";
 proc import
-  datafile='/home/ken/mydates.csv'
+  datafile=myurl
     dbms=csv
     out=dates
     replace;
@@ -431,8 +461,10 @@ proc import
 proc print;
 proc print;
   format date mmddyy8.;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/pieces.txt";
 proc import
-  datafile='/home/ken/pieces.txt'
+  datafile=myurl
     dbms=dlm
     out=pieces
     replace;
@@ -445,8 +477,10 @@ data makedates;
 proc print;
   format sasdate yymmdd10.;
 proc print;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/monthly.csv";
 proc import
-  datafile='/home/ken/monthly.csv'
+  datafile=myurl
   out=sales1
   dbms=csv
   replace;
@@ -471,15 +505,19 @@ data moredates;
   m=month(date);
   y=year(date);
 proc print;  
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/dt.csv";  
 proc import
-  datafile='/home/ken/dt.csv'
+  datafile=myurl
     dbms=csv
     out=dt
     replace;
   getnames=yes;
 proc print;  
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/manypieces.txt";      
 proc import
-  datafile='/home/ken/manypieces.txt'
+  datafile=myurl
     dbms=dlm
     out=many
     replace;
@@ -494,8 +532,10 @@ proc print;
 proc print;    
 format thedate yymmdd10. thetime time8. 
   sasdt datetime.;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/hospital.csv";  
 proc import
-  datafile='/home/ken/hospital.csv'
+  datafile=myurl
     dbms=csv
     out=stays
     replace;
@@ -504,8 +544,10 @@ data hospitalstay;
   set stays;
   stay=(discharge-admit)/60/60/24;
 proc print;          
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/many.txt";
 proc import
-  datafile='/home/ken/many.txt'
+  datafile=myurl
     dbms=dlm out=many replace;
   delimiter=' ';
   getnames=no;
@@ -529,9 +571,11 @@ data two;
   end;
   keep x y;
 proc print;    
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/pigs1.txt";  
 libname mydata V9 '/home/ken';
 proc import
-  datafile='/home/ken/pigs1.txt'
+  datafile=myurl
     dbms=dlm 
     out=mydata.pigs1
     replace;
@@ -544,8 +588,10 @@ data mydata.three; /* permanent data set to save in */
   set two; /* this has variables x and y in it */
   z=x+y;
 proc print data='/home/ken/three';
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/ais.txt";      
 proc import 
-  datafile='/home/ken/ais.txt'
+  datafile=myurl
   dbms=dlm
   out=sports
   replace;
@@ -560,8 +606,10 @@ proc sgplot;
 proc sgplot;
   scatter x=Ht y=Wt;
   loess x=Ht y=Wt;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/windmill.csv";    
 proc import
-  datafile='/home/ken/windmill.csv'
+  datafile=myurl
     dbms=csv
     out=windmill
     replace;
@@ -570,8 +618,10 @@ proc means;
 proc sgplot;
   scatter x=wind_velocity y=DC_output;
   loess x=wind_velocity y=DC_output;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/oranges.txt";      
 proc import
-  datafile='/home/ken/oranges.txt'
+  datafile=myurl
     dbms=dlm
     out=trees
     replace;
@@ -584,8 +634,10 @@ proc sgplot;
   series x=age y=c / markers;
   series x=age y=d / markers;
   series x=age y=e / markers;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/cars.csv";      
 proc import 
-  datafile='/home/ken/cars.csv'
+  datafile=myurl
   dbms=csv
   out=cars
   replace;
@@ -636,8 +688,10 @@ proc iml;
   print ans1;
   ans2=A*B;
   print ans2;
+filename myurl url 
+  "http://www.utsc.utoronto.ca/~butler/c32/m.txt";
 proc import
-  datafile='/home/ken/m.txt'
+  datafile=myurl
     dbms=dlm
     out=mymatrix
     replace;
