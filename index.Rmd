@@ -17,7 +17,7 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 - 2020-01-13 14:20: [Assignment 1](a1-c33.pdf) is up on Quercus. This should be doable after tomorrow's lecture. 
 
-- 2020-01-13 13:20: for those that were in the 09:00 and 10:00 tutorials, there was supposed to be a place to practice handing in your work, and there wasn't. Sorry. There is now, if you want to try it.
+- 2020-01-13 13:20: for those that were in the 09:00 and 10:00 tutorials, there was supposed to be a place on Quercus to practice handing in your work, and there wasn't. Sorry. There is now, if you want to try it.
 
 - 2020-01-12 10:00: [Material for January 13 tutorial](a0.pdf). Work through this and verify that you get what I got. If you are stuck or confused in tutorial, raise your hand and someone will assist you.
 
