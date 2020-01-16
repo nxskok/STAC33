@@ -1,0 +1,26 @@
+row,game,date,box,team,venue,opp,result,runs,Oppruns,innings,wl,position,gb,winner,loser,save,game time,Daynight,attendance,streak
+82,7,"Monday, Apr 13",boxscore,TOR,,TBR,L,1,2,,4-3,2,1,Odorizzi,Dickey,Boxberger,2:30,N,48414,-
+83,8,"Tuesday, Apr 14",boxscore,TOR,,TBR,L,2,3,,4-4,3,2,Geltz,Castro,Jepsen,3:06,N,17264,--
+84,9,"Wednesday, Apr 15",boxscore,TOR,,TBR,W,12,7,,5-4,2,1,Buehrle,Ramirez,,3:02,N,15086,+
+85,10,"Thursday, Apr 16",boxscore,TOR,,TBR,L,2,4,,5-5,4,1.5,Archer,Sanchez,Boxberger,3:00,N,14433,-
+86,11,"Friday, Apr 17",boxscore,TOR,,ATL,L,7,8,,5-6,4,2.5,Martin,Cecil,Grilli,3:09,N,21397,--
+87,12,"Saturday, Apr 18",boxscore,TOR,,ATL,W-wo,6,5,10,6-6,3,1.5,Cecil,Marimon,,2:41,D,34743,+
+88,13,"Sunday, Apr 19",boxscore,TOR,,ATL,L,2,5,,6-7,4,1.5,Miller,Norris,Grilli,2:41,D,44794,-
+89,14,"Tuesday, Apr 21",boxscore,TOR,,BAL,W,13,6,,7-7,2,2,Buehrle,Norris,,2:53,N,14184,+
+90,15,"Wednesday, Apr 22",boxscore,TOR,,BAL,W,4,2,,8-7,2,1,Sanchez,Jimenez,Castro,2:36,N,15606,++
+91,16,"Thursday, Apr 23",boxscore,TOR,,BAL,W,7,6,,9-7,1,Tied,Hutchison,Tillman,Castro,2:36,N,18581,+++
+92,27,"Monday, May 4",boxscore,TOR,,NYY,W,3,1,,13-14,4,3.5,Dickey,Martin,Cecil,2:18,N,19217,+
+93,28,"Tuesday, May 5",boxscore,TOR,,NYY,L,3,6,,13-15,5,4.5,Pineda,Estrada,Miller,2:54,N,21519,-
+94,29,"Wednesday, May 6",boxscore,TOR,,NYY,W,5,1,,14-15,3,3.5,Buehrle,Sabathia,,2:30,N,21312,+
+95,30,"Friday, May 8",boxscore,TOR,,BOS,W,7,0,,15-15,3,4,Sanchez,Miley,,2:41,N,30430,++
+96,31,"Saturday, May 9",boxscore,TOR,,BOS,W,7,1,,16-15,3,3,Hutchison,Kelly,,3:12,D,42917,+++
+97,32,"Sunday, May 10",boxscore,TOR,,BOS,L,3,6,,16-16,3,4,Buchholz,Dickey,Uehara,2:38,D,42419,-
+98,40,"Monday, May 18",boxscore,TOR,,LAA,W,10,6,,18-22,5,4.5,Osuna,Morin,,3:28,D,29306,+
+99,41,"Tuesday, May 19",boxscore,TOR,,LAA,L,2,3,,18-23,5,4.5,Santiago,Sanchez,Street,2:32,N,15062,-
+100,42,"Wednesday, May 20",boxscore,TOR,,LAA,L,3,4,,18-24,5,4.5,Weaver,Hutchison,Street,2:36,N,16402,--
+101,43,"Thursday, May 21",boxscore,TOR,,LAA,W,8,4,,19-24,5,4.5,Dickey,Shoemaker,,2:22,N,19014,+
+102,44,"Friday, May 22",boxscore,TOR,,SEA,L,3,4,,19-25,5,5.5,Hernandez,Estrada,Rodney,2:30,N,21195,-
+103,45,"Saturday, May 23",boxscore,TOR,,SEA,L,2,3,,19-26,5,5.5,Paxton,Buehrle,Rodney,2:25,D,33086,--
+104,46,"Sunday, May 24",boxscore,TOR,,SEA,W,8,2,,20-26,5,4.5,Sanchez,Walker,,2:50,D,37929,+
+105,47,"Monday, May 25",boxscore,TOR,,CHW,W,6,0,,21-26,5,3.5,Hutchison,Noesi,,2:10,N,15168,++
+106,48,"Tuesday, May 26",boxscore,TOR,,CHW,W-wo,10,9,,22-26,4,3,Delabar,Robertson,,3:12,N,17276,+++
