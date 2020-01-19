@@ -15,7 +15,9 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
-- 2020-01-16 13:30: [Blue jays data](jays15-home.csv) for today's class
+- 2020-01-19 17:00: tomorrow's tutorial is a chance to work on [Assignment 1](a1-c33.pdf) with help present. Reminder: if you want to be there for an hour other than the one you're registered for, you can, *if* there is room. 
+
+- 2020-01-16 13:30: [Blue jays data](jays15-home.csv) for today's class.
 
 - 2020-01-13 14:20: [Assignment 1](a1-c33.pdf) is up on Quercus. This should be doable after tomorrow's lecture. 
 
