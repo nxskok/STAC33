@@ -15,11 +15,11 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
-- 2020-01-21 13:30: a couple of links: the [Wikipedia page on Welch's test](https://en.wikipedia.org/wiki/Welch%27s_t-test), the link on [where that crazy df formula comes from](https://en.wikipedia.org/wiki/Welch%E2%80%93Satterthwaite_equation), and [my extended discussion of two-sample $t$](http://ritsokiguess.site/STAC32/pasi-sas.pdf) (starts on page 81).
+- 2020-01-21 13:30: a couple of links: the [Wikipedia page on Welch's test](https://en.wikipedia.org/wiki/Welch%27s_t-test), the link on [where that crazy df formula comes from](https://en.wikipedia.org/wiki/Welch%E2%80%93Satterthwaite_equation), and [my extended discussion of two-sample $t$](http://ritsokiguess.site/STAC32/pasi-sas.pdf) (starts on page 81). My answer is different from Wikipedia's, which almost certainly means that mine is wrong, but the process is sound.
 
 - 2020-01-21 11:15: On the agenda for this week: two-sample $t$-tests, power of hypothesis tests.
 
-- 2020-01-20 15:30: [Draft assignment 2](a2-c33.pdf). This is on one-sample and two-sample $t$-tests, and will go up on Quercus tomorrow. The power stuff will be on next week's assignment.
+- 2020-01-20 15:30 (edited 2020-01-21 14:00): [Draft assignment 2](a2-c33.pdf). This is on one-sample and two-sample $t$-tests, and will go up on Quercus tomorrow. The power stuff will be on next week's assignment.
 
 - 2020-01-19 17:00: tomorrow's tutorial is a chance to work on [Assignment 1](a1-c33.pdf) with help present. Reminder: if you want to be there for an hour other than the one you're registered for, you can, *if* there is room. 
 
