@@ -15,6 +15,8 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-01-22 10:30: [My solutions to assignment 1](a1-c33.pdf).
+
 - 2020-01-21 14:30: trying to prepare for me being away: a draft [Assignment 3](a3-c33.pdf), due on February 4. This might be doable after Thursday's lecture this week.
 
 - 2020-01-21 13:30: a couple of links: the [Wikipedia page on Welch's test](https://en.wikipedia.org/wiki/Welch%27s_t-test), the link on [where that crazy df formula comes from](https://en.wikipedia.org/wiki/Welch%E2%80%93Satterthwaite_equation), and [my extended discussion of two-sample $t$](http://ritsokiguess.site/STAC32/pasi-sas.pdf) (starts on page 81). My answer is different from Wikipedia's, which almost certainly means that mine is wrong, but the process is sound.
