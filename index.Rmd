@@ -15,6 +15,8 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-01-28 08:30: I am temporarily in England. Nnenna Asidianya is teaching in my absence. Look out for messages from her on Quercus.
+
 - 2020-01-22 11:45: [Assignment 2](a2-c33.pdf) is final, and is going up on Quercus in a moment. Two short questions.
 
 - 2020-01-22 10:30: [My solutions to assignment 1](a1-c33.pdf).
