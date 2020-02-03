@@ -15,6 +15,10 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-02-03 11:10: I will be back next week! Booked my plane ticket back today.
+
+- 2020-02-03 11:10: draft [Assignment 4](a4-c33.pdf) to be due on the 11th, with one question on the sign test.
+
 - 2020-01-31 11:00 revised 2020-02-03 10:45: my [solutions to assignment 2](a2-c33.pdf). Aasha drew my attention to an error I had made in question 2, which the revised version of the solutions now fixes.
 
 - 2020-01-30 07:00: My solutions to assignment 2 will be here shortly. Assignment 3, due next Tuesday night, is up on Quercus.
