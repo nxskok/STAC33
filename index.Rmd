@@ -15,6 +15,8 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-02-06 10:10: [Assignment 4](a4-c33.pdf) is up on [Quercus](https://q.utoronto.ca/courses/135550/assignments/293645).
+
 - 2020-02-04 07:00: did I post the midterm date here? Wed Mar 4 at 17:00 in IC 130 and IC 220.
 
 - 2020-02-03 11:10: I will be back next week! Booked my plane ticket back today.
