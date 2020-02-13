@@ -15,7 +15,9 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
-- 2020-02-13 13:30: Assignment 3 grading is happening now, and I anticipate it being done by later today. There are, as I anticipated, lots of ways you might try to do the simulation. It looks as if a number of people blindly copied a for loop they had used in some other course *without changing anything*, which won't work very well. I added my take on the for loop to [my solutions](a3-c33.pdf). I wouldn't use it myself, but if you can do it and get it right, I'm happy. 
+- 2020-02-13 13:40: [Assignment 5](a5-c33.pdf) is up on Quercus, due on the 25th (after reading week).
+
+- 2020-02-13 13:30: Assignment 3 grading is happening now, and I anticipate it being done by later today. There are, as I anticipated, lots of ways you might try to do the simulation. It looks as if a number of people blindly copied a for loop they had used in some other course *without changing anything*, which won't work very well. I added my take on the for loop to [my solutions](a3-c33.pdf). I wouldn't use it myself, but if you can do it and get it right, I'm happy. The grader and I have discussed some of the answers people gave; if it looks as if it works, it gets full marks; if there are errors, it doesn't.
 
 - 2020-02-11 10:15: a preview of [Assignment 5](a5-c33.pdf), which will be due after reading week, but which you can probably do now.
 
