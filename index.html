@@ -22,6 +22,14 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/htmlwidgets-1.5.1/htmlwidgets.js"></script>
+<script src="site_libs/d3-3.3.8/d3.min.js"></script>
+<script src="site_libs/dagre-0.4.0/dagre-d3.min.js"></script>
+<link href="site_libs/mermaid-0.3.0/dist/mermaid.css" rel="stylesheet" />
+<script src="site_libs/mermaid-0.3.0/dist/mermaid.slim.min.js"></script>
+<link href="site_libs/DiagrammeR-styles-0.2/styles.css" rel="stylesheet" />
+<script src="site_libs/chromatography-0.1/chromatography.js"></script>
+<script src="site_libs/DiagrammeR-binding-1.0.1/DiagrammeR.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -337,6 +345,12 @@ $(document).ready(function () {
 </div>
 <div id="news-most-recent-at-the-top" class="section level2">
 <h2>News (most recent at the top)</h2>
+<ul>
+<li>2020-02-14 20:30: That was rather a lot to take in in lecture yesterday. You might find this flow chart helpful:</li>
+</ul>
+<div id="htmlwidget-3295ab5e425572c5d1b8" style="width:1152px;height:384px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-3295ab5e425572c5d1b8">{"x":{"diagram":"graph LR;\nA{All samples normal enough?}-- Yes -->B{Equal enough spread?};\nA-- No -->C[Mood median test];\nB-- Yes -->D[Pooled t / ANOVA];\nB-- No -->E[Welch t / Welch ANOVA];\nD-- 3+ groups -->F[Tukey];\nE-- 3+ groups-->G[Games-Howell];\nC-- 3+ groups-->H[Pairwise median tests];\n"},"evals":[],"jsHooks":[]}</script>
+<p>The chart was made in R, using a package called Diagrammer.</p>
 <ul>
 <li><p>2020-02-13 13:40: <a href="a5-c33.pdf">Assignment 5</a> is up on Quercus, due on the 25th (after reading week).</p></li>
 <li><p>2020-02-13 13:30: Assignment 3 grading is happening now, and I anticipate it being done by later today. There are, as I anticipated, lots of ways you might try to do the simulation. It looks as if a number of people blindly copied a for loop they had used in some other course <em>without changing anything</em>, which won’t work very well. I added my take on the for loop to <a href="a3-c33.pdf">my solutions</a>. I wouldn’t use it myself, but if you can do it and get it right, I’m happy. The grader and I have discussed some of the answers people gave; if it looks as if it works, it gets full marks; if there are errors, it doesn’t.</p></li>
