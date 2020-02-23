@@ -15,6 +15,8 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-02-23 12:30: I spaced things out on the exam to give you more room to write; the exam is now 8 pages long, but there are not any more questions (the exam is exactly as long as it was).
+
 - 2020-02-21 22:20: it looks as if our midterm has 6 questions with altogether 26 parts, worth a total of 61 points. I've added space for you to write your answers; the exam will be 7 pages long when printed. I may make some small edits before I send it to be printed, but this is what to expect. I am making allowances for the fact that you have only 1 hour 45 minutes to write the exam. The exam covers lectures up to and including Thursday of the coming week.
 
 - 2020-02-14 20:30: That was rather a lot to take in in lecture yesterday. You might find this flow chart helpful:
