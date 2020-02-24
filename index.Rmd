@@ -15,6 +15,10 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-02-24 13:30: next Monday, there is no assignment, but there is still tutorial. Make sure to take advantage of your chance to ask questions before the midterm, which means organizing materials and practicing old midterms *before then*. If you go back far enough in the C32 midterms, you'll see SAS questions in amongst the R ones. You don't need to practice *those*, though for extra challenge you can figure out how to accomplish the tasks in R (if the question does not otherwise ask you to do so). Two tips I give you here:
+  - Spend time getting your notes and other materials organized so that you know *exactly* where to look for something. During the exam, efficiency is all.
+  - one of the best ways to test how much you really know (and to find out what you really don't know) is to do old exams under exam conditions, with the aids you'll have. All the old exams here are 2 hours, so you can try to complete them in 1:45 to train your mind. (You might have to make allowances for SAS questions and anything else we haven't done yet.)
+
 - 2020-02-23 12:30: I spaced things out on the exam to give you more room to write; the exam is now 8 pages long, but there are not any more questions (the exam is exactly as long as it was). It is now out of 62 points, since I made one of the questions worth one more point than it was (again, without otherwise changing it).
 
 - 2020-02-21 22:20: it looks as if our midterm has 6 questions with altogether 26 parts, worth a total of 61 points. I've added space for you to write your answers; the exam will be 7 pages long when printed. I may make some small edits before I send it to be printed, but this is what to expect. I am making allowances for the fact that you have only 1 hour 45 minutes to write the exam. The exam covers lectures up to and including Thursday of the coming week.
