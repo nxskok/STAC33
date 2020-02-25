@@ -15,6 +15,8 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-02-25 11:10: for practice on the analysis of variance stuff, look at problems 12.1 through 12.3 of [PASIAS](http://ritsokiguess.site/pasias/). These seem to be mainly regular ANOVA and Mood's median test, but there's nothing stopping you running a Welch ANOVA and Games-Howell in any of those problems to see how it compares.
+
 - 2020-02-24 21:15: on the agenda for this week: the various flavours of analysis of variance, done at proper speed (not rushed as they were before reading week); writing reports, to prepare you for the project (which we'll talk about after midterm is done). After that (which we may start on Thursday), tidying and organizing data. 
 
 - 2020-02-24 13:30 edited 21:15: next Monday, there is no assignment, but we will be around for pre-exam office hours during at least some of tutorial time (in BV 498). Make sure to take advantage of your chance to ask questions before the midterm, which means organizing materials and practicing old midterms *before then*. If you go back far enough in the C32 midterms, you'll see SAS questions in amongst the R ones. You don't need to practice *those*, though for extra challenge you can figure out how to accomplish the tasks in R (if the question does not otherwise ask you to do so). Two tips I give you here:
