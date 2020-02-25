@@ -15,6 +15,8 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-02-25 14:00: on the [STAC32 old exam page](http://ritsokiguess.site/STAC32/old_exams.html), I have added the fall 2019 midterm with figures and solutions.
+
 - 2020-02-25 11:10: for practice on the analysis of variance stuff, look at problems 12.1 through 12.3 of [PASIAS](http://ritsokiguess.site/pasias/). These seem to be mainly regular ANOVA and Mood's median test, but there's nothing stopping you running a Welch ANOVA and Games-Howell in any of those problems to see how it compares.
 
 - 2020-02-24 21:15: on the agenda for this week: the various flavours of analysis of variance, done at proper speed (not rushed as they were before reading week); writing reports, to prepare you for the project (which we'll talk about after midterm is done). After that (which we may start on Thursday), tidying and organizing data. 
