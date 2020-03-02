@@ -15,7 +15,7 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
-- 2020-02-27 13:45: extra pre-exam office hours *Tuesday 14:00-16:00 in IC 404 with Nnenna*. I will be grading my other midterm, but may be in my office if you absolutely need to see me. This is in addition to Monday 11:00-13:00 in BV 498 with Bo, Aasha and me. 
+- 2020-02-27 13:45 edited 2020-03-01 19:00: extra pre-exam office hours *Tuesday 14:30-16:30 in IC 404 with Nnenna*. I will be grading my other midterm, but may be in my office if you absolutely need to see me. This is in addition to Monday 11:00-13:00 in BV 498 with Bo, Aasha and me. Note change of time from original.
 
 - 2020-02-26 22:00: [My solutions to Assignment 5](a5-c33.pdf). There will eventually be an Assignment 6, but this will not be due until March 17. There will shortly be a draft of this. (The logic is one week off for you to help you prepare for the midterm, and one more week off for us since we will be grading your midterms!)
 
