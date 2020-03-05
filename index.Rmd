@@ -15,6 +15,8 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-03-04 19:50: exams will be scanned tomorrow and grading will start thereafter. If you missed the exam, you would do well to do the exam for practice: here is [the exam](midterm-20201-q.pdf) and the [figures](midterm-20201-f.pdf). If you were there, you might like to look at [my solutions](midterm-20201-s.pdf). I have tried to anticipate answers people might give, but bear in mind that other answers are possible. 
+
 - 2020-03-03 10:45: [Chapter 13 of PASIAS](http://ritsokiguess.site/pasias/tidying-and-selecting-data.html#tidying-and-selecting-data) is the place to go if you want practice on tidying and selecting data.
 
 - 2020-03-02 14:40: It seems that I forgot to put up my [assignment 4 solutions](a4-c33.pdf). Sorry about that.
