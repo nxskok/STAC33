@@ -15,6 +15,8 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-03-05 23:50: progress report: 4(a), 4(b), and 5(a) are graded, along with some of 5(b). 
+
 - 2020-03-05 19:50: grading is under way. Reminder: *no tutorial* on Monday. There will be an assignment 6 due on March 17.
 
 - 2020-03-04 19:50: exams will be scanned tomorrow and grading will start thereafter. If you missed the exam, you would do well to do the exam for practice: here is [the exam](midterm-20201-q.pdf) and the [figures](midterm-20201-f.pdf). If you were there, you might like to look at [my solutions](midterm-20201-s.pdf). I have tried to anticipate answers people might give, but bear in mind that other answers are possible. 
