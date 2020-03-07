@@ -15,6 +15,8 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-03-07 10:50: there was a video problem with some of Thursday's lecture: the first 15 minutes or so were not recorded. I need to re-record that part, and then my recording will be spliced onto the recording that was made on Thursday.
+
 - 2020-03-07 10:45: questions 4 and 5 are graded, and there is progress on question 1. 
 
 - 2020-03-05 23:50: progress report: 4(a), 4(b), and 5(a) are graded, along with some of 5(b). 
