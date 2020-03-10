@@ -15,7 +15,9 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
-- 2020-03-09 15:30: update --- remaining to be graded are 1(f), question 3 and question 6. It looks as if everything else is done. [My solutions](midterm-20201-s.pdf) updated with additional comments on question 1. Because of the size of the class, there are not very many comments on the graded exams, but my solutions  should be detailed enough that you can see why you got what you got on each question.
+- 2020-03-09 22:20: question 1 done now (by me). Questions 3 and 6 to go.
+
+- 2020-03-09 15:30: update --- remaining to be graded are 1(f), question 3 and question 6. It looks as if everything else is done. [My solutions](midterm-20201-s.pdf) updated with additional comments on question 1. Because of the size of the class, there are not very many comments on the graded exams, but my solutions  should be detailed enough that you can see why you got what you got on each question. The same person grades all the students for a particular question part, so the grading will be consistent; it is likely that if you think you have been graded harshly, other people with a similar answer to yours will have the same grade.
 
 - 2020-03-09 10:20: reminder --- *no tutorials today* (and no assignment due).
 
