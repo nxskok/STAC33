@@ -15,7 +15,7 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
-- 2020-03-10 11:45: About the data analysis [project:](project.pdf). This is due Friday April 3 at 11:59pm. This is a group project (groups chosen by you of up to and including 6 people). Detais in linked document: basically, choose a data set, do an analysis that answers an "interesting" question about the data set, and write a report on it with introduction, analysis and conclusion.
+- 2020-03-10 11:45: About the data analysis [project](project.pdf): This is due Friday April 3 at 11:59pm. This is a group project (groups chosen by you of up to and including 6 people). Details in linked document: basically, choose a data set, do an analysis that answers an "interesting" question about the data set, and write a report on it with introduction, analysis and conclusion.
 
 - 2020-03-09 22:25: last Thursday's lecture(s) are now up. As I said, I re-recorded the opening few minutes that were missed by the videographer; my screencast is up as Lecture 16a, and the actual lecture (the part of it that was recorded) is up as Lecture 16b.
 
