@@ -15,6 +15,8 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-03-13 14:30: [Assignment 6](a6-c33.pdf) is still, as things stand, due on Tuesday night. 
+
 - 2020-03-13 11:00: from the President: "We have decided to cancel all in-person undergraduate and research-stream Masters and Doctoral courses across U of T’s three campuses, and we will provide that teaching by other means". That means no more lectures/tutorials for the remainder of the semester. I will be making screencasts of the remainder of what my lectures would have been, and sharing them with you. I want to figure out a good way to handle office hours, but for now, feel free to e-mail me. *I do not know yet what is happening with the final exam*.
 
 - 2020-03-13 10:30: midterm is graded. 
