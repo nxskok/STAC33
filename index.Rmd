@@ -15,6 +15,19 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-03-13 11:00: from the President: "We have decided to cancel all in-person undergraduate and research-stream Masters and Doctoral courses across U of T’s three campuses, and we will provide that teaching by other means". That means no more lectures/tutorials for the remainder of the semester. I will be making screencasts of the remainder of what my lectures would have been, and sharing them with you. I want to figure out a good way to handle office hours, but for now, feel free to e-mail me. *I do not know yet what is happening with the final exam*.
+
+- 2020-03-13 10:30: midterm is graded. 
+  - Stats: Q1 mark 22/62 (58%), median 41/62 (66%), Q3 46.5/62 (75%). 
+  - Your mark is going up on Quercus shortly. After that, you will be receiving an email from Crowdmark with instructions for viewing your graded exam. 
+  - You will need to go through your graded exam carefully with [my solutions](midterm-20201-s.pdf) to understand why you received the mark you did on each question. Some questions have several possible approaches; if you have taken a sensible approach and *properly explained/justified* what you said, you have received credit for it. The same grader graded each question part for all students (for example, I graded question 3(b) for everybody). I am confident that the graders and I have been consistent. If you think we have been tough, well, we have been tough for everybody.
+  
+
+- 2020-03-12 23:15: late night update:
+  - I have no idea what the future holds right now. As of this moment, the university is still open and we try to finish the semester, by online means if necessary. I can screencast my remaining lectures if needed, but I have no idea what might happen with our final exam. I don't know about you, but I'm finding it a little difficult to concentrate.
+  - On the assumption that things continue, we have a [draft assignment 7](a7-c33.pdf), which is about as short as I could make it.
+  - Our grader is diligently working through question 6 of the midterm, and as I write is halfway through the last part of the question. 
+
 - 2020-03-11 23:30: 3(d) finished, and my colleague is working on 6(b). I needed musical accompaniment to keep me going tonight, which included:
   - a Faure nocturne (played by Angela Hewitt)
   - Beethoven's 4th symphony
