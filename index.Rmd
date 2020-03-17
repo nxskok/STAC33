@@ -15,6 +15,14 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-03-17 15:30: trying not to overburden you with stuff to read (and probably failing):
+  - The final exam will be billed as a "take-home exam", but will look like an assignment. I anticipate that it will take you about the same time as an actual final exam, but you will have somewhat longer to complete it. Details to follow. The final exam will be a separate thing from the project (the project is now optional).
+  - The University will be much more relaxed than usual with petitions for late withdrawals or final exam deferrals. Keep that in mind if your current circumstances will make it difficult to complete the course as it now stands.
+  - Grading schemes: (a) assignments 15%, midterm 30%, project 10%, final 45%; (b) assignments 25%, midterm 30%, final 45%. You automatically get the better of those. Normally, I allow the final exam mark to replace the midterm if it is higher, but I don't want to do that this time because the midterm is our only invigilated assessment.
+  - Assignment grade is best 5 out of 7 assignments. This means that if you already have 5 perfect assignments, or expect to have, you don't have anything to gain marks-wise from doing the project. This is not how I would normally arrange things, but we live in abnormal times.
+  - The bonus on assignment 6 will also help you increase your assignment grade, if it needs help. It will be possible to score over 100% on assignment 6, but the maximum overall assignment grade will be 100% no matter what. 
+  - My procedure for calculation: each assignment is turned into a percentage, and then the best five of those percentages are averaged up. Thus each assignment counts the same.
+  
 - 2020-03-16 19:45: today's update:
   - we had a department meeting this morning, in which our chair shared what he had learned from a meeting with the other department chairs. I have some ideas about what I would like to do the rest of the way (subject to change, like everything else at the moment):
     - I will make the project *optional*, since you may not be willing to meet as a group, and it would even be hard to *form* groups at this stage. If you don't do the project, the weight that would have gone into the project comes from the assignments. (I think this is the only way to do it that does not require a vote from you, but tell me if I am wrong or you otherwise disagree.)
