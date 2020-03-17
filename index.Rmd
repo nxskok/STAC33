@@ -15,6 +15,17 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-03-16 19:45: today's update:
+  - we had a department meeting this morning, in which our chair shared what he had learned from a meeting with the other department chairs. I have some ideas about what I would like to do the rest of the way (subject to change, like everything else at the moment):
+    - I will make the project *optional*, since you may not be willing to meet as a group, and it would even be hard to *form* groups at this stage. If you don't do the project, the weight that would have gone into the project comes from the assignments. (I think this is the only way to do it that does not require a vote from you, but tell me if I am wrong or you otherwise disagree.)
+    - I will be more generous than usual in grading the projects so that if you do the project you have a decent chance to benefit from it grade-wise.
+    - You automatically get the better of the with-project and without-project grade.
+    - We have two assignments that are post-changes. I intend to take the best 5 assignments out of the 7, so that you don't have to stress about completing the last two if that is not possible for you.
+    - I am thinking about doing a "final exam" that is like an extended and time-limited assignment (that you would do on R Studio and hand in on Quercus). Sort of like a take-home exam, is the idea. Details to follow, once I get my head around things.
+    - I discovered a couple of errors in the [lecture slides](slides_c33.pdf), caused by my not having re-installed packages when I upgraded to R 3.6 on my computer. The link is to the updated slides.
+    - My screencast lectures might include a bit of extra stuff, depending how I do for time, but I will make it clear what you are responsible for for the "final exam". 
+    - I opened up the Quercus discussion board. Feel free to post any non-personal questions or comments there, or to respond to comments that others make. (You can start a new thread if you want to.) I will be keeping an eye on it, and if it gets busy, I will ask the TAs to look in also.
+
 - 2020-03-15 20:55: some thoughts:
   - I plan to run the course "asychronously" the rest of the way. This means that you do not have to be anywhere, even virtually, at any particular time. I plan to record the lectures as screencasts and have the WebOption people put them up there. 
   - For now, we will field questions in email (see addresses in Quercus announcement).
