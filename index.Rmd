@@ -15,6 +15,10 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-03-18 15:45: I will be more relaxed than usual about accepting late assignments, so I won't put my solutions up for a bit. I will put Assignment 7 up tonight.
+
+- 2020-03-18 15:30: Here is [a link to Tuesday's lecture](https://play.library.utoronto.ca/9652c7519fd0f93cdd63b9f330e30856) that I screencast(ed).
+
 - 2020-03-17 15:30: trying not to overburden you with stuff to read (and probably failing):
   - The final exam will be billed as a "take-home exam", but will look like an assignment. I anticipate that it will take you about the same time as an actual final exam, but you will have somewhat longer to complete it. Details to follow. The final exam will be a separate thing from the project (the project is now optional).
   - The University will be much more relaxed than usual with petitions for late withdrawals or final exam deferrals. Keep that in mind if your current circumstances will make it difficult to complete the course as it now stands.
