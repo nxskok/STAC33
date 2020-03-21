@@ -15,11 +15,13 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-03-21 16:50: second half of the [functions lecture](https://play.library.utoronto.ca/abc81fcbb100a9e2bbb9b897b24198b5), recorded today. This will go up on WebOption with the first half, to be Tuesday's lecture.
+
 - 2020-03-20 22:40: 
   - I hope you are maintaining some semblance of mental and physical wellness in these times in which we find ourselves. I have periods in which I cannot concentrate on anything much; know that this is to be expected. We know that these are tough times, and will try to make allowances.
   - If you can, try to limit the time you spend on places like Twitter, or checking your email. 
   - Assignment 7 is up on Quercus (unchanged from the draft version). This is due (at some relaxed version of) Tuesday night, meaning that reaching us by Wednesday sometime is going to be OK. Remember that the best five out of the seven assignments will count for your assignment grade.
-  - I have started work on the "at-home final". (It is billed as a take-home exam, but you won't exactly be picking it up from me and taking it home.) I currently have two questions. There will be something like five or six altogether. It is looking a lot like an extended assignment. I have to decide whether to make it a Quercus "assignment" (which will be easier for you) or a Crowdmark "assigned assessment" (which will be better for us to grade). 
+  - I have started work on the "at-home final". (It is billed as a take-home exam, but you won't exactly be picking it up from me and taking it home.) I currently have two questions. There will be something like five or six altogether. It is looking a lot like an extended assignment. I have to decide whether to make it a Quercus "assignment" (which will be easier for you) or a Crowdmark "assigned assessment" (which will be better for us to grade). It will, in any case, work like an assignment, with no need for any paper: receive the exam questions at the appropriate time, and submit an HTML or similar with your answers to the questions.
   - I was going to record the second half of Functions today, but I never got to it. The plan is to do that tomorrow. I plan to combine the second half of Functions with the section on linear algebra. The linear algebra stuff will not be on the final, but it seems to fit here, and I'd like to share it with you. I'm thinking that all of this is really the first lecture of next week, so will send it to WebOption with those instructions. (Your Thursday lecture of last week was short, so this week may be a bit longer.)
   - I guess we have three lectures left after this, which sounds about right for the bootstrap and Bayesian stuff.
   - I'm skipping SAS this time around. I will think about how much of that to do, the next time I'm teaching this course in person.
