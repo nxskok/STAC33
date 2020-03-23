@@ -1,4 +1,4 @@
-within,morning_automated,morning_rep,afternoon_automated,afternoon_rep,evening_automated,evening_rep
+within,morning_phone,morning_teller,afternoon_phone,afternoon_teller,evening_phone,evening_teller
 1,6,8,3,9,5,9
 2,5,7,5,10,5,10
 3,8,9,6,6,7,10
