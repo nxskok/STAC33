@@ -15,6 +15,8 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-03-26 15:00: I've recorded [today's lecture](https://play.library.utoronto.ca/5279611d6aadfcb81d9247cb35a74e4d) on the bootstrap, which will go up on WebOption shortly. It is only about 30 minutes long. But I figure you deserve a break. We'll see how long the Bayesian stuff takes next week.
+
 - 2020-03-26 09:20: the details of the proposed new grading scheme are [in the survey](https://q.utoronto.ca/courses/135550/quizzes/67076). If you are OK with it, vote Yes; if not, vote No.
 
 - 2020-03-25 20:30: it seems to me unreasonable to keep the final exam weight at 45%. I would like to reduce it to 20%, and scale everything else up. This is a "change in the methods of evaluation in a course or their relative weights", and so it requires you to vote on it. I am about to post a survey on Quercus, in which I lay out the proposed new scheme. (There are actually two schemes, one with and one without the project, and you automatically get whichever one is better for you.) Please vote Yes or No on this before 11:59pm next Monday.
