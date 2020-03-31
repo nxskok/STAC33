@@ -15,8 +15,6 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
-- 2020-03-30 21:50: the poll about changing the grading scheme runs until midnight tonight, but I think it's time to call it. As of now, there are 200 votes, with 167 in favour and 33 against. Even if all the remaining students vote No, the result will not change. 
-So the revised grading scheme goes into operation, with the final worth 20%, the midterm 45%, and the remaining 35% divided between the assignments and the project, 35-0 or 20-15, whichever is better for you. This issue is now closed. Thank you for voting.
 
 - 2020-03-30 21:45: I realized that I forgot to post my [Assignment 7 solutions](a7-c33.pdf).
 
