@@ -15,6 +15,10 @@ In this course, we learn R (and at the end SAS), and how to use this software fo
 
 ## News (most recent at the top)
 
+- 2020-03-31 17:45: [Thursday's lecture](https://play.library.utoronto.ca/6699e63bc420365e2695abcb384b3675) is now up. This completes the lectures for this semester.
+
+- 2020-03-31 17:40: somebody asked me what happens under the revised grading scheme for those who did not write the midterm. Such people are writing a 65% final (45% + 20%).
+
 - 2020-03-31 09:20: in the poll about changing the grading scheme, there were 203 votes, with 169 in favour and 34 against. So the revised grading scheme goes into operation, with the final worth 20%, the midterm 45%, and the remaining 35% divided between the assignments and the project, 35-0 or 20-15, whichever is better for you. This issue is now closed. Thank you for voting.
 
 
