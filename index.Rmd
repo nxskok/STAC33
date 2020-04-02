@@ -15,6 +15,10 @@ In this course, we learn R (and at the end SAS, or not), and how to use this sof
 
 ## News (most recent at the top)
 
+- 2020-04-02 11:40: This semester, you have until April 25 to drop the course, make it CR/NCR, etc, as appropriate. I normally release final exam marks and graded final exams as soon as they are available, but will not be doing so this time because you need to make these decisions before you receive, or can work out, your course grades. You will be receiving all your course grades after April 25.
+
+- 2020-04-02 11:35: I draw your attention to [this document](https://hive.utsc.utoronto.ca/public/dean/academic%20administrators/DCD%202019-20/MEMO_Final_Exams_AcademicAdministrators_March2020.pdf) from the Dean's office. Items 7, 9, and possibly 8 may apply to you. (Item 8 only applies if you have already submitted a request to graduate.) *Do not ask me for clarification on these*. This is all I know about them.
+
 - 2020-04-02 11:20: some thoughts about the final exam:
   - The exam will look like an assignment. You will need to be running code and getting output, and handing that in on Quercus.
   - The exam is open-book, open Internet. You can use anything that you find on websites, but you may not obtain help from other people.
