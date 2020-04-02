@@ -10,10 +10,19 @@ title: "STAC33"
 
 Welcome to the home page for STAC33. This is the place to look for all things course-related (notes, assignments, announcements etc., linked above) except for assignment hand-ins and marks, which will be on [Quercus](http://q.utoronto.ca).
 
-In this course, we learn R (and at the end SAS), and how to use this software for data organization and to apply statistical methods that you (mostly) already know. I emphasize the communication of the results. That is to say, you need to *get* the answers, but you also need to be able to *explain to others* what the results mean, and *convince others why* what you have done is sensible.
+In this course, we learn R (and at the end SAS, or not), and how to use this software for data organization and to apply statistical methods that you (mostly) already know. I emphasize the communication of the results. That is to say, you need to *get* the answers, but you also need to be able to *explain to others* what the results mean, and *convince others why* what you have done is sensible.
 
 
 ## News (most recent at the top)
+
+- 2020-04-02 11:20: some thoughts about the final exam:
+  - The exam will look like an assignment. You will need to be running code and getting output, and handing that in on Quercus.
+  - The exam is open-book, open Internet. You can use anything that you find on websites, but you may not obtain help from other people.
+  - The coverage will be similar to past exams, but the style of question will be more like what you have seen on assignments.
+  - Expect to see mainly material from after the midterm, but you may need ideas from before the midterm.
+  - There will be about four questions, intended to take you three hours.
+  - The exam will be open on Quercus for 12 hours. That is to say, it will become available on April 8 at 11:59 pm and will be due on April 9 at 12:00 noon.  I am giving you extra time to allow for you being in a different time zone, having Internet problems, etc.
+  - Late exams may be subject to a penalty. If you have accommodations from Accessability, your exam is due as many minutes after 12:00 as you have minutes of accommodation. (Such an exam may be indicated as "late" on Quercus, but is on time for me if it is within your accommodation.)
 
 - 2020-03-31 17:45: [Thursday's lecture](https://play.library.utoronto.ca/6699e63bc420365e2695abcb384b3675) is now up. This completes the lectures for this semester.
 
