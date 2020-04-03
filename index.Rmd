@@ -27,6 +27,7 @@ In this course, we learn R (and at the end SAS, or not), and how to use this sof
   - There will be about four questions, intended to take you three hours.
   - The exam will be open on Quercus for 12 hours. That is to say, it will become available on April 8 at 11:59 pm and will be due on April 9 at 12:00 noon.  I am giving you extra time to allow for you being in a different time zone, having Internet problems, etc.
   - Late exams may be subject to a penalty. If you have accommodations from Accessability, your exam is due as many minutes after 12:00 as you have minutes of accommodation. (Such an exam may be indicated as "late" on Quercus, but is on time for me if it is within your accommodation.)
+  - there is no longer any requirement to get 50% on this final exam.
 
 - 2020-03-31 17:45: [Thursday's lecture](https://play.library.utoronto.ca/6699e63bc420365e2695abcb384b3675) is now up. This completes the lectures for this semester.
 
