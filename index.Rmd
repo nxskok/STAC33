@@ -15,6 +15,8 @@ In this course, we learn R (and at the end SAS, or not), and how to use this sof
 
 ## News (most recent at the top)
 
+- 2020-04-04 09:30: on Weboption, lectures 22 and 24 appear to have no sound. I am getting them to fix this, but meanwhile, here are [lecture 22](https://play.library.utoronto.ca/5279611d6aadfcb81d9247cb35a74e4d) and [lecture 24](https://play.library.utoronto.ca/6699e63bc420365e2695abcb384b3675), and they both have sound, at least at this end.
+
 - 2020-04-03 15:30: I decided to extend the due time of the take-home final to 1:00pm on the 9th. This gives you a little more flexibility in arranging your time. I am not going to extend it any further because I would then create a conflict for any of you that have 2:00pm exams. The exam is designed to take you three hours. If you take longer than that, it's a sign that you don't know the material well enough.
 
 - 2020-04-02 11:40: This semester, you have until April 25 to drop the course, make it CR/NCR, etc, as appropriate. I normally release final exam marks and graded final exams as soon as they are available, but will not be doing so this time because you need to make these decisions before you receive, or can work out, your course grades. You will be receiving all your course grades after April 25.
