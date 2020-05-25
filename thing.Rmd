@@ -1,0 +1,22 @@
+---
+title: "thing"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+```
+
+
+## this is not much
+
+```{r}
+x <- rnorm(100)
+y <- rnorm(100)
+ggplot(tibble(x, y), aes(x=x, y=y)) + geom_point()
+```
+
