@@ -13,7 +13,7 @@
 
 <title>STAC33</title>
 
-<script src="site_libs/header-attrs-2.1/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -23,14 +23,17 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<script src="site_libs/htmlwidgets-1.5.1/htmlwidgets.js"></script>
-<script src="site_libs/d3-3.3.8/d3.min.js"></script>
-<script src="site_libs/dagre-0.4.0/dagre-d3.min.js"></script>
-<link href="site_libs/mermaid-0.3.0/dist/mermaid.css" rel="stylesheet" />
-<script src="site_libs/mermaid-0.3.0/dist/mermaid.slim.min.js"></script>
-<link href="site_libs/DiagrammeR-styles-0.2/styles.css" rel="stylesheet" />
-<script src="site_libs/chromatography-0.1/chromatography.js"></script>
-<script src="site_libs/DiagrammeR-binding-1.0.6.1/DiagrammeR.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -284,22 +287,7 @@ $(document).ready(function () {
   <a href="index.html">Home</a>
 </li>
 <li>
-  <a href="slides_c33.pdf">Lecture notes</a>
-</li>
-<li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-    Lecture code
-     
-    <span class="caret"></span>
-  </a>
-  <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="R-code.html">R</a>
-    </li>
-    <li>
-      <a href="sas_lecture_code.txt">SAS</a>
-    </li>
-  </ul>
+  <a href="notes.html">R lecture notes</a>
 </li>
 <li>
   <a href="http://q.utoronto.ca">Quercus</a>
@@ -341,200 +329,20 @@ $(document).ready(function () {
 <img src="ken.jpg" width="400" alt="" />
 <p class="caption">bad picture</p>
 </div>
-<p>Welcome to the home page for STAC33. This is the place to look for all things course-related (notes, assignments, announcements etc., linked above) except for assignment hand-ins and marks, which will be on <a href="http://q.utoronto.ca">Quercus</a>.</p>
-<p>In this course, we learn R (and at the end SAS, or not), and how to use this software for data organization and to apply statistical methods that you (mostly) already know. I emphasize the communication of the results. That is to say, you need to <em>get</em> the answers, but you also need to be able to <em>explain to others</em> what the results mean, and <em>convince others why</em> what you have done is sensible.</p>
+<p>Welcome to the home page for STAC33. This is the place to look for all things course-related (notes, announcements etc.) except for assignment hand-ins and marks, which will be on <a href="http://q.utoronto.ca">Quercus</a>.</p>
+<p>In this course, we learn R, and how to use this software for data organization and to apply statistical methods that you (mostly) already know. I emphasize the communication of the results. That is to say, you need to <em>get</em> the answers, but you also need to be able to <em>explain to others</em> what the results mean, and <em>convince others why</em> what you have done is sensible. This is what a real-world data analyst does, and so you will need to demonstrate an ability to do that as well.</p>
 </div>
 <div id="news-most-recent-at-the-top" class="section level2">
 <h2>News (most recent at the top)</h2>
 <ul>
-<li><p>2020-04-06 19:15: some <a href="https://www.utsc.utoronto.ca/studentaffairs/exam-supports">exam supports</a> for you from Student Affairs.</p></li>
-<li><p>2020-04-05 18:00: The <a href="http://ritsokiguess.site/STAC32/old_exams.html">STAC32 old exams page</a> now has the Fall 2019 final exam. Remember that we didn’t do any SAS this year, so you can ignore anything in there on SAS, or, better yet, work out how to do it in R.</p></li>
-<li><p>2020-04-04 17:40: I have graded the (not very many) projects. The person who handed it in should have a few comments. I copied the group’s grade to the other members of the group. Let me know if I have missed you. The project marks are about a mark out of 10 more generous than usual, and are my take on how the work compares with what I would expect from a student in this class (with, this year, 8 being “as expected”; normally that is 7.). If it improves your assignment grade, you will benefit grade-wise from having done the project. I hope you benefitted in other ways too.</p></li>
-<li><p>2002-04-04 10:20: we now have, on Quercus, a Module called Videos with a Page in it containing the lectures that have missing sound currently on WebOption. So you can also watch them there.</p></li>
-<li><p>2020-04-04 09:30: on Weboption, lectures 22 and 24 appear to have no sound. I am getting them to fix this, but meanwhile, here are <a href="https://play.library.utoronto.ca/5279611d6aadfcb81d9247cb35a74e4d">lecture 22</a> and <a href="https://play.library.utoronto.ca/6699e63bc420365e2695abcb384b3675">lecture 24</a>, and they both have sound, at least at this end.</p></li>
-<li><p>2020-04-03 15:30: I decided to extend the due time of the take-home final to 1:00pm on the 9th. This gives you a little more flexibility in arranging your time. I am not going to extend it any further because I would then create a conflict for any of you that have 2:00pm exams. The exam is designed to take you three hours. If you take longer than that, it’s a sign that you don’t know the material well enough.</p></li>
-<li><p>2020-04-02 11:40: This semester, you have until April 25 to drop the course, make it CR/NCR, etc, as appropriate. I normally release final exam marks and graded final exams as soon as they are available, but will not be doing so this time because you need to make these decisions before you receive, or can work out, your course grades. You will be receiving all your course grades after April 25.</p></li>
-<li><p>2020-04-02 11:35: I draw your attention to <a href="https://hive.utsc.utoronto.ca/public/dean/academic%20administrators/DCD%202019-20/MEMO_Final_Exams_AcademicAdministrators_March2020.pdf">this document</a> from the Dean’s office. Items 7, 9, and possibly 8 may apply to you. (Item 8 only applies if you have already submitted a request to graduate.) <em>Do not ask me for clarification on these</em>. This is all I know about them.</p></li>
-<li><p>2020-04-02 11:20: some thoughts about the final exam:</p>
+<li>2021-01-04 11:00: here’s the plan for the course this year:
 <ul>
-<li>The exam will look like an assignment. You will need to be running code and getting output, and handing that in on Quercus.</li>
-<li>The exam is open-book, open Internet. You can use anything that you find on websites, but you may not obtain help from other people.</li>
-<li>The coverage will be similar to past exams, but the style of question will be more like what you have seen on assignments.</li>
-<li>Expect to see mainly material from after the midterm, but you may need ideas from before the midterm.</li>
-<li>There will be about four questions, intended to take you three hours.</li>
-<li>The exam will be open on Quercus for 12 hours. That is to say, it will become available on April 8 at 11:59 pm and will be due on April 9 at 12:00 noon. I am giving you extra time to allow for you being in a different time zone, having Internet problems, etc.</li>
-<li>Late exams may be subject to a penalty. If you have accommodations from Accessability, your exam is due as many minutes after 12:00 as you have minutes of accommodation. (Such an exam may be indicated as “late” on Quercus, but is on time for me if it is within your accommodation.)</li>
-<li>there is no longer any requirement to get 50% on this final exam.</li>
+<li>I will record lectures, 2-3 hours per week, and post the lecture links on Quercus. I will give you practice problems to work on for each lecture.</li>
+<li>you will also have one hour of tutorial a week (live, on Mondays), where the TA will be available to answer questions and may talk about some of the practice problems.</li>
+<li>there are <em>no exams</em> in this course; instead, you will be graded on weekly assignments (there will be 10, of which your best 8 will count), which will be like mini take-home exams.</li>
+<li>grading in this course is based on <em>demonstrated understanding</em>; that is, getting the “right answer” (or one of the sensible answers) is necessary but not sufficient. You will need to <em>explain</em> how you know it’s a sensible answer. This is not a math course. The grader will give you feedback that you can apply to make your next assignment better.</li>
 </ul></li>
-<li><p>2020-03-31 17:45: <a href="https://play.library.utoronto.ca/6699e63bc420365e2695abcb384b3675">Thursday’s lecture</a> is now up. This completes the lectures for this semester.</p></li>
-<li><p>2020-03-31 17:40: somebody asked me what happens under the revised grading scheme for those who did not write the midterm. Such people are writing a 65% final (45% + 20%).</p></li>
-<li><p>2020-03-31 09:20: in the poll about changing the grading scheme, there were 203 votes, with 169 in favour and 34 against. So the revised grading scheme goes into operation, with the final worth 20%, the midterm 45%, and the remaining 35% divided between the assignments and the project, 35-0 or 20-15, whichever is better for you. This issue is now closed. Thank you for voting.</p></li>
-<li><p>2020-03-30 21:45: I realized that I forgot to post my <a href="a7-c33.pdf">Assignment 7 solutions</a>.</p></li>
-<li><p>2020-03-30 20:00: here is <a href="https://play.library.utoronto.ca/663800dfc50c7ee2c569cce1da75b633">Tuesday’s lecture</a>. This is the first part of Bayesian statistics with Stan. I might record the second part tomorrow so that you have it all.</p></li>
-<li><p>2020-03-26 15:00: I’ve recorded <a href="https://play.library.utoronto.ca/5279611d6aadfcb81d9247cb35a74e4d">today’s lecture</a> on the bootstrap, which will go up on WebOption shortly. It is only about 30 minutes long. But I figure you deserve a break. We’ll see how long the Bayesian stuff takes next week.</p></li>
-<li><p>2020-03-26 09:20: the details of the proposed new grading scheme are <a href="https://q.utoronto.ca/courses/135550/quizzes/67076">in the survey</a>. If you are OK with it, vote Yes; if not, vote No. This is not the time to write to me with arguments. If you don’t like the proposal, vote No.</p></li>
-<li><p>2020-03-25 20:30: it seems to me unreasonable to keep the final exam weight at 45%. I would like to reduce it to 20%, and scale everything else up. This is a “change in the methods of evaluation in a course or their relative weights”, and so it requires you to vote on it. I am about to post a survey on Quercus, in which I lay out the proposed new scheme. (There are actually two schemes, one with and one without the project, and you automatically get whichever one is better for you.) Please vote Yes or No on this before 11:59pm next Monday.</p></li>
-<li><p>2020-03-21 16:50 edited 2020-03-23 16:30: second half of the <a href="https://play.library.utoronto.ca/abc81fcbb100a9e2bbb9b897b24198b5">functions lecture</a>, recorded today. This will go up on WebOption with the first half, to be Tuesday’s lecture. (later edit: it is up.) Problem 16.1 of <a href="http://ritsokiguess.site/pasias/functions.html#functions">PASIAS</a> is practice for this. You will notice that Problem 16.2 is the same example as the lecture notes!</p></li>
-<li><p>2020-03-20 22:40:</p>
-<ul>
-<li>I hope you are maintaining some semblance of mental and physical wellness in these times in which we find ourselves. I have periods in which I cannot concentrate on anything much; know that this is to be expected. We know that these are tough times, and will try to make allowances.</li>
-<li>If you can, try to limit the time you spend on places like Twitter, or checking your email.</li>
-<li>Assignment 7 is up on Quercus (unchanged from the draft version). This is due (at some relaxed version of) Tuesday night, meaning that reaching us by Wednesday sometime is going to be OK. Remember that the best five out of the seven assignments will count for your assignment grade.</li>
-<li>I have started work on the “at-home final”. (It is billed as a take-home exam, but you won’t exactly be picking it up from me and taking it home.) I currently have two questions. There will be something like five or six altogether. It is looking a lot like an extended assignment. I have to decide whether to make it a Quercus “assignment” (which will be easier for you) or a Crowdmark “assigned assessment” (which will be better for us to grade). It will, in any case, work like an assignment, with no need for any paper: receive the exam questions at the appropriate time, and submit an HTML or similar with your answers to the questions.</li>
-<li>I was going to record the second half of Functions today, but I never got to it. The plan is to do that tomorrow. I plan to combine the second half of Functions with the section on linear algebra. The linear algebra stuff will not be on the final, but it seems to fit here, and I’d like to share it with you. I’m thinking that all of this is really the first lecture of next week, so will send it to WebOption with those instructions. (Your Thursday lecture of last week was short, so this week may be a bit longer.)</li>
-<li>I guess we have three lectures left after this, which sounds about right for the bootstrap and Bayesian stuff.</li>
-<li>I’m skipping SAS this time around. I will think about how much of that to do, the next time I’m teaching this course in person.</li>
-</ul></li>
-<li><p>2020-03-20 20:45: <a href="a7-c33.pdf">Assignment 7</a> is up on Quercus, unchanged from the draft version. I hope it won’t take you too long.</p></li>
-<li><p>2020-03-19 22:30: I decided to record the <a href="https://play.library.utoronto.ca/7dead9f18e49b2bd01b058629cd287df">first half of the lecture on functions</a>. I still haven’t decided whether this is the end of this week or the start of next week. Maybe it doesn’t matter. After this, I have the second half of functions, a piece on linear algebra (which is optional but I’d like to show it to you), then the bootstrap, then Bayesian statistics with Stan. I should perhaps point out that Stan doesn’t play very nicely with R Studio Cloud. I don’t want to assume that you’ll have R Studio on your own computer, so I won’t make you run Stan for the final exam; expect that I’ll show you something and ask about it, or ask you for the code you would run, without asking you to run it.</p></li>
-<li><p>2020-03-19 14:50: My solutions to <a href="a6-c33.pdf">Assignment 6</a>.</p></li>
-<li><p>2020-03-19 14:45: I don’t expect to enforce the “must get 50% on the final”. Talking of that, I plan to give you something like 24 hours to do the “at-home final exam”, even though I anticipate that there will only be 3 hours of work for you to do, in case of internet problems, extra responsibilities, etc. So plan to make yourself a block of 3 hours or so to complete it. It will be due at the end of our scheduled exam time. Accessability people will have access to it earlier (or they will get to hand it in later), according to their accommodation.</p></li>
-<li><p>2020-03-19 14:30: A link to <a href="https://play.library.utoronto.ca/9ddda86216596ce6f74d55922e6e598f">Thursday’s lecture</a>. This is only 38 minutes, so I owe you a little extra. Remaining we have section 12 on Functions, and sections on the Bootstrap and Bayesian Statistics. I’m not sure how long the last two will take (since they are new for this course).</p></li>
-<li><p>2020-03-18 15:45: I will be more relaxed than usual about accepting late assignments, so I won’t put my solutions up for a bit. I will put Assignment 7 up tonight.</p></li>
-<li><p>2020-03-18 15:30: Here is <a href="https://play.library.utoronto.ca/9652c7519fd0f93cdd63b9f330e30856">a link to Tuesday’s lecture</a> that I screencast(ed).</p></li>
-<li><p>2020-03-17 15:30: trying not to overburden you with stuff to read (and probably failing):</p>
-<ul>
-<li>The final exam will be billed as a “take-home exam”, but will look like an assignment. I anticipate that it will take you about the same time as an actual final exam, but you will have somewhat longer to complete it. Details to follow. The final exam will be a separate thing from the project (the project is now optional).</li>
-<li>The University will be much more relaxed than usual with petitions for late withdrawals or final exam deferrals. Keep that in mind if your current circumstances will make it difficult to complete the course as it now stands.</li>
-<li>Grading schemes: (a) assignments 15%, midterm 30%, project 10%, final 45%; (b) assignments 25%, midterm 30%, final 45%. You automatically get the better of those. Normally, I allow the final exam mark to replace the midterm if it is higher, but I don’t want to do that this time because the midterm is our only invigilated assessment.</li>
-<li>Assignment grade is best 5 out of 7 assignments. This means that if you already have 5 perfect assignments, or expect to have, you don’t have anything to gain marks-wise from doing the project. This is not how I would normally arrange things, but we live in abnormal times.</li>
-<li>The bonus on assignment 6 will also help you increase your assignment grade, if it needs help. It will be possible to score over 100% on assignment 6, but the maximum overall assignment grade will be 100% no matter what.</li>
-<li>My procedure for calculation: each assignment is turned into a percentage, and then the best five of those percentages are averaged up. Thus each assignment counts the same.</li>
-</ul></li>
-<li><p>2020-03-16 19:45: today’s update:</p>
-<ul>
-<li>we had a department meeting this morning, in which our chair shared what he had learned from a meeting with the other department chairs. I have some ideas about what I would like to do the rest of the way (subject to change, like everything else at the moment):
-<ul>
-<li>I will make the project <em>optional</em>, since you may not be willing to meet as a group, and it would even be hard to <em>form</em> groups at this stage. If you don’t do the project, the weight that would have gone into the project comes from the assignments. (I think this is the only way to do it that does not require a vote from you, but tell me if I am wrong or you otherwise disagree.)</li>
-<li>I will be more generous than usual in grading the projects so that if you do the project you have a decent chance to benefit from it grade-wise.</li>
-<li>You automatically get the better of the with-project and without-project grade.</li>
-<li>We have two assignments that are post-changes. I intend to take the best 5 assignments out of the 7, so that you don’t have to stress about completing the last two if that is not possible for you.</li>
-<li>I am thinking about doing a “final exam” that is like an extended and time-limited assignment (that you would do on R Studio and hand in on Quercus). Sort of like a take-home exam, is the idea. Details to follow, once I get my head around things.</li>
-<li>I discovered a couple of errors in the <a href="slides_c33.pdf">lecture slides</a>, caused by my not having re-installed packages when I upgraded to R 3.6 on my computer. The link is to the updated slides.</li>
-<li>My screencast lectures might include a bit of extra stuff, depending how I do for time, but I will make it clear what you are responsible for for the “final exam”.</li>
-<li>I opened up the Quercus discussion board. Feel free to post any non-personal questions or comments there, or to respond to comments that others make. (You can start a new thread if you want to.) I will be keeping an eye on it, and if it gets busy, I will ask the TAs to look in also.</li>
-</ul></li>
-</ul></li>
-<li><p>2020-03-15 20:55: some thoughts:</p>
-<ul>
-<li>I plan to run the course “asychronously” the rest of the way. This means that you do not have to be anywhere, even virtually, at any particular time. I plan to record the lectures as screencasts and have the WebOption people put them up there.</li>
-<li>For now, we will field questions in email (see addresses in Quercus announcement).</li>
-<li>When I have a plan for the final exam, I will let you know.</li>
-</ul></li>
-<li><p>2020-03-15 20:45: Today’s message from the Dean is that there will be no in-person exams this semester. What that means in terms of exams is still unclear; those of you working with Accessability should continue to do so, and once the form of your exam is determined, they will determine any appropriate accommodations for you. We have a department meeting tomorrow in which (I hope) some things will be hashed out.</p></li>
-<li><p>2020-03-13 14:30: <a href="a6-c33.pdf">Assignment 6</a> is still, as things stand, due on Tuesday night.</p></li>
-<li><p>2020-03-13 11:00: from the President: “We have decided to cancel all in-person undergraduate and research-stream Masters and Doctoral courses across U of T’s three campuses, and we will provide that teaching by other means”. That means no more lectures/tutorials for the remainder of the semester. I will be making screencasts of the remainder of what my lectures would have been, and sharing them with you. I want to figure out a good way to handle office hours, but for now, feel free to e-mail me. <em>I do not know yet what is happening with the final exam</em>.</p></li>
-<li><p>2020-03-13 10:30: midterm is graded.</p>
-<ul>
-<li><p>Stats: Q1 mark 36/62 (58%), median 41/62 (66%), Q3 46.5/62 (75%). It took about 48.5 grader-hours to grade all the exams.</p></li>
-<li><p>Your mark is going up on Quercus shortly. After that, you will be receiving an email from Crowdmark with instructions for viewing your graded exam.</p></li>
-<li><p>You will need to go through your graded exam carefully with <a href="midterm-20201-s.pdf">my solutions</a> to understand why you received the mark you did on each question. Some questions have several possible approaches; if you have taken a sensible approach and <em>properly explained/justified</em> what you said, you have received credit for it. The same grader graded each question part for all students (for example, I graded question 3(b) for everybody). I am confident that the graders and I have been consistent. If you think we have been tough, well, we have been tough for everybody.</p></li>
-<li><p>Mistakes occasionally happen when marking. If you feel there is an issue with the marking of your midterm, you may request that it be re-marked. Any re-mark policy exists to correct mistakes, and any request should clearly identify the error (for example, a question that was not marked, or a total incorrectly calculated). Do not expect any changes if your issue is with the grader’s judgment. Requests to correct mistakes must be sent by email to <code>ken.butler@utoronto.ca</code>. For consideration, any email for a re-mark request:</p>
-<ul>
-<li>must be sent after Monday Mar 16 at 9:00 am</li>
-<li>must be received before Monday Mar 30 at 9:00am</li>
-<li>must include “STAC33 midterm remark request” in the subject line of the email,</li>
-<li>must include your full name and student number, and</li>
-<li>must give a specific, clear, and concise reason for each request, referring to a possible error or omission by the marker. Re-mark requests without a specific reason will not be accepted.</li>
-<li>Please note that your entire test may be re-marked when submitting a re-marking request, and that marks may go down as well as up.</li>
-</ul></li>
-</ul>
-<p>This is a Crowdmark exam, so that we can access the part of your exam you have an issue with. We don’t need to see your copy.</p></li>
-<li><p>2020-03-12 23:15: late night update:</p>
-<ul>
-<li>I have no idea what the future holds right now. As of this moment, the university is still open and we try to finish the semester, by online means if necessary. I can screencast my remaining lectures if needed, but I have no idea what might happen with our final exam. I don’t know about you, but I’m finding it a little difficult to concentrate.</li>
-<li>On the assumption that things continue, we have a <a href="a7-c33.pdf">draft assignment 7</a>, which is about as short as I could make it.</li>
-<li>Our grader is diligently working through question 6 of the midterm, and as I write is halfway through the last part of the question.</li>
-</ul></li>
-<li><p>2020-03-11 23:30: 3(d) finished, and my colleague is working on 6(b). I needed musical accompaniment to keep me going tonight, which included:</p>
-<ul>
-<li>a Faure nocturne (played by Angela Hewitt)</li>
-<li>Beethoven’s 4th symphony</li>
-<li>a Mozart piano sonata that I have played (at least, the first two movements of it), but Lang Lang plays it better than I do. (I may have gotten distracted listening to this.)</li>
-</ul></li>
-<li><p>2020-03-11 21:30: I was mostly busy with my other course today, but I have finished 3(c) and another grader is working on question 6. I <em>might</em> be able to get through 3(d) tonight; we’ll see.</p></li>
-<li><p>2020-03-10 22:50: exam progress today is that 3(a) and 3(b) are now done. What remains is the last two parts of question 3, and the whole of question 6. Also, the latest update of <a href="midterm-20201-s.pdf">my solutions</a>.</p></li>
-<li><p>2020-03-10 11:45: About the data analysis <a href="project.pdf">project</a>: This is due Friday April 3 at 11:59pm. This is a group project (groups chosen by you of up to and including 6 people). Details in linked document: basically, choose a data set, do an analysis that answers an “interesting” question about the data set, and write a report on it with introduction, analysis and conclusion.</p></li>
-<li><p>2020-03-09 22:25: last Thursday’s lecture(s) are now up. As I said, I re-recorded the opening few minutes that were missed by the videographer; my screencast is up as Lecture 16a, and the actual lecture (the part of it that was recorded) is up as Lecture 16b.</p></li>
-<li><p>2020-03-09 22:20: question 1 done now (by me). Questions 3 and 6 to go.</p></li>
-<li><p>2020-03-09 15:30: update — remaining to be graded are 1(f), question 3 and question 6. It looks as if everything else is done. <a href="midterm-20201-s.pdf">My solutions</a> updated with additional comments on question 1. Because of the size of the class, there are not very many comments on the graded exams, but my solutions should be detailed enough that you can see why you got what you got on each question. The same person grades all the students for a particular question part, so the grading will be consistent; it is likely that if you think you have been graded harshly, other people with a similar answer to yours will have the same grade.</p></li>
-<li><p>2020-03-09 10:20: reminder — <em>no tutorials today</em> (and no assignment due).</p></li>
-<li><p>2020-03-08 17:56: midterm grading progress report:</p>
-<ul>
-<li>question 1: about half done</li>
-<li>question 2: about 75% done</li>
-<li>question 3: not done yet</li>
-<li>questions 4 and 5: done</li>
-<li>question 6: not done yet</li>
-</ul></li>
-<li><p>2020-03-08 17:55: I have recorded a screencast of the piece of the lecture missed by the videographer. The videography people will join that onto the video that was recorded (they will do this tomorrow) and put the combined video up.</p></li>
-<li><p>2020-03-07 10:50: there was a video problem with some of Thursday’s lecture: the first 15 minutes or so were not recorded. I need to re-record that part, and then my recording will be spliced onto the recording that was made on Thursday.</p></li>
-<li><p>2020-03-07 10:45: questions 4 and 5 are graded, and there is progress on question 1.</p></li>
-<li><p>2020-03-05 23:50: progress report: 4(a), 4(b), and 5(a) are graded, along with some of 5(b).</p></li>
-<li><p>2020-03-05 19:50: grading is under way. Reminder: <em>no tutorial</em> on Monday. There will be an assignment 6 due on March 17.</p></li>
-<li><p>2020-03-04 19:50: exams will be scanned tomorrow and grading will start thereafter. If you missed the exam, you would do well to do the exam for practice: here is <a href="midterm-20201-q.pdf">the exam</a> and the <a href="midterm-20201-f.pdf">figures</a>. If you were there, you might like to look at <a href="midterm-20201-s.pdf">my solutions</a>. I have tried to anticipate answers people might give, but bear in mind that other answers are possible.</p></li>
-<li><p>2020-03-03 10:45: <a href="http://ritsokiguess.site/pasias/tidying-and-selecting-data.html#tidying-and-selecting-data">Chapter 13 of PASIAS</a> is the place to go if you want practice on tidying and selecting data.</p></li>
-<li><p>2020-03-02 14:40: It seems that I forgot to put up my <a href="a4-c33.pdf">assignment 4 solutions</a>. Sorry about that.</p></li>
-<li><p>2020-02-27 13:45 edited 2020-03-01 19:00: extra pre-exam office hours <em>Tuesday 14:30-16:30 in IC 404 with Nnenna</em>. I will be grading my other midterm, but may be in my office if you absolutely need to see me. This is in addition to Monday 11:00-13:00 in BV 498 with Bo, Aasha and me. Note change of time from original.</p></li>
-<li><p>2020-02-26 22:00: <a href="a5-c33.pdf">My solutions to Assignment 5</a>. There will eventually be an Assignment 6, but this will not be due until March 17. There will shortly be a draft of this. (The logic is one week off for you to help you prepare for the midterm, and one more week off for us since we will be grading your midterms!)</p></li>
-<li><p>2020-02-25 14:00: on the <a href="http://ritsokiguess.site/STAC32/old_exams.html">STAC32 old exam page</a>, I have added the fall 2019 midterm with figures and solutions.</p></li>
-<li><p>2020-02-25 11:10: for practice on the analysis of variance stuff, look at problems 12.1 through 12.3 of <a href="http://ritsokiguess.site/pasias/">PASIAS</a>. These seem to be mainly regular ANOVA and Mood’s median test, but there’s nothing stopping you running a Welch ANOVA and Games-Howell in any of those problems to see how it compares.</p></li>
-<li><p>2020-02-24 21:15: on the agenda for this week: the various flavours of analysis of variance, done at proper speed (not rushed as they were before reading week); writing reports, to prepare you for the project (which we’ll talk about after midterm is done). After that (which we may start on Thursday), tidying and organizing data.</p></li>
-<li><p>2020-02-24 13:30 edited 21:15 and Tuesday 11:45: next Monday, there is no assignment, but we will be around for drop-in pre-exam office hours during 11:00-13:00 in BV 498. Feel free to drop in any time during that period, regardless of when your tutorial is. Make sure to take advantage of your chance to ask questions before the midterm, which means organizing materials and practicing old midterms <em>before then</em>. If you go back far enough in the C32 midterms, you’ll see SAS questions in amongst the R ones. You don’t need to practice <em>those</em>, though for extra challenge you can figure out how to accomplish the tasks in R (if the question does not otherwise ask you to do so). Two tips I give you here:</p>
-<ul>
-<li>Spend time getting your notes and other materials organized so that you know <em>exactly</em> where to look for something. During the exam, efficiency is all.</li>
-<li>one of the best ways to test how much you really know (and to find out what you really don’t know) is to do old exams under exam conditions, with the aids you’ll have. All the old exams here are 2 hours, so you can try to complete them in 1:45 to train your mind. (You might have to make allowances for SAS questions and anything else we haven’t done yet.) After you’ve done an old exam (but not before), look through my solutions and <em>grade yourself</em>. The stuff you don’t know will become painfully clear, and then you will know what you need to do next.</li>
-</ul></li>
-<li><p>2020-02-23 12:30: I spaced things out on the exam to give you more room to write; the exam is now 8 pages long, but there are not any more questions (the exam is exactly as long as it was). It is now out of 62 points, since I made one of the questions worth one more point than it was (again, without otherwise changing it).</p></li>
-<li><p>2020-02-21 22:20: it looks as if our midterm has 6 questions with altogether 26 parts, worth a total of 61 points. I’ve added space for you to write your answers; the exam will be 7 pages long when printed. I may make some small edits before I send it to be printed, but this is what to expect. I am making allowances for the fact that you have only 1 hour 45 minutes to write the exam. The exam covers lectures up to and including Thursday of the coming week.</p></li>
-<li><p>2020-02-14 20:30: That was rather a lot to take in in lecture yesterday. You might find this flow chart helpful:</p></li>
-</ul>
-<div id="htmlwidget-c422777ee537cf8aa960" style="width:1152px;height:384px;" class="DiagrammeR html-widget"></div>
-<script type="application/json" data-for="htmlwidget-c422777ee537cf8aa960">{"x":{"diagram":"graph LR;\nA{All samples normal enough?}-- Yes -->B{Equal enough spread?};\nA-- No -->C[Mood median test];\nB-- Yes -->D[Pooled t / ANOVA];\nB-- No -->E[Welch t / Welch ANOVA];\nD-- 3+ groups -->F[Tukey];\nE-- 3+ groups-->G[Games-Howell];\nC-- 3+ groups-->H[Pairwise median tests];\n"},"evals":[],"jsHooks":[]}</script>
-<p>The chart was made in R, using a package called Diagrammer.</p>
-<ul>
-<li><p>2020-02-13 13:40: <a href="a5-c33.pdf">Assignment 5</a> is up on Quercus, due on the 25th (after reading week).</p></li>
-<li><p>2020-02-13 13:30: Assignment 3 grading is happening now, and I anticipate it being done by later today. There are, as I anticipated, lots of ways you might try to do the simulation. It looks as if a number of people blindly copied a for loop they had used in some other course <em>without changing anything</em>, which won’t work very well. I added my take on the for loop to <a href="a3-c33.pdf">my solutions</a>. I wouldn’t use it myself, but if you can do it and get it right, I’m happy. The grader and I have discussed some of the answers people gave; if it looks as if it works, it gets full marks; if there are errors, it doesn’t.</p></li>
-<li><p>2020-02-11 10:15: a preview of <a href="a5-c33.pdf">Assignment 5</a>, which will be due after reading week, but which you can probably do now.</p></li>
-<li><p>2020-02-10 10:45: Assignments:</p>
-<ul>
-<li>Assignment 4 due tomorrow night</li>
-<li>Next week is reading week, so no assignment due then</li>
-<li>Assignment 5 due February 25</li>
-<li>No assignments for March 3 or 10</li>
-<li>Assignment 6 due March 17</li>
-<li>Assignment 7 due March 24</li>
-<li>Group project due April 3 (last day of classes)</li>
-</ul>
-<p>I will direct you to problems in PASIAS that cover everything after what appears on Assignment 7.</p></li>
-<li><p>2020-02-10 10:30: About the exam: <em>this is a written exam</em>. I will typically ask for one of two kinds of answer: code to accomplish a task (written down), or interpretation of some output (or some other data-related issue). My exams are open-book. This means that you can bring basically anything except old exams, but <em>you will not have time to search for what you need</em>. Spend time before the exam organizing the materials you are going to bring, so that when you need to look something up in the exam, <em>you know exactly where to look</em>. This is the first run of this course, but the material we have covered so far is almost the same as for STAC32; the “old exams” tab on this website links to old exams for that course. <em>You need to practice the old midterms</em> to learn my exam style. I’d recommend starting from the most recent one and working your way backwards in time. Some of the material was different in the past, and some of the coding was also different (the more so the further you go back). Also bear in mind that our midterm is late; whatever we get to in lecture up to and including February 27 is fair game for the exam, which may include material that doesn’t appear on old midterms. For that material, PASIAS and assignments are good practice. This will be a Crowdmark exam, which means that the marking will be done online and you will receive instructions to receive your marked exam, also online. (It also means that your exam will have a QR code on each page, and the system will know which page of which exam it is looking at.)</p></li>
-<li><p>2020-02-10 10:00: Our midterm exam is on Wednesday March 4, 17:00–18:45. It is in two rooms (because we have a big class). If your last name starts with A through HS (inclusive), your exam will be in IC 220; if your last name starts with HU through Z (inclusive), your exam will be in IC 130. I am aware that the exam is 1 hour 45 minutes long, and will construct an exam appropriate for the time you have. The rooms are almost full. If you go to the wrong room, you can expect to be sent to the correct one, thereby wasting time you could have spent writing the exam.</p></li>
-<li><p>2020-02-07 15:30: I met with Nnenna this afternoon, and found out where you folks are at. I think you’ve gotten as far as the matched pairs sign test on page 210, and so I plan to start on Tuesday with Mood’s median test on page 211, the story of which begins with some very familiar data.</p></li>
-<li><p>2020-02-06 10:20: <a href="a3-c33.pdf">My solutions to assignment 3</a>. Full marks in (d), as you see, requires some clear thinking.</p></li>
-<li><p>2020-02-06 10:10: <a href="a4-c33.pdf">Assignment 4</a> is up on <a href="https://q.utoronto.ca/courses/135550/assignments/293645">Quercus</a>.</p></li>
-<li><p>2020-02-04 07:00: did I post the midterm date here? Wed Mar 4 at 17:00 in IC 130 and IC 220.</p></li>
-<li><p>2020-02-03 11:10: I will be back next week! Booked my plane ticket back today.</p></li>
-<li><p>2020-02-03 11:10: draft <a href="a4-c33.pdf">Assignment 4</a> to be due on the 11th, with one question on the sign test.</p></li>
-<li><p>2020-01-31 11:00 revised 2020-02-03 10:45: my <a href="a2-c33.pdf">solutions to assignment 2</a>. Aasha drew my attention to an error I had made in question 2, which the revised version of the solutions now fixes.</p></li>
-<li><p>2020-01-30 07:00: My solutions to assignment 2 will be here shortly. Assignment 3, due next Tuesday night, is up on Quercus.</p></li>
-<li><p>2020-01-28 08:30: I am temporarily in England. Nnenna Asidianya is teaching in my absence. Look out for messages from her on Quercus.</p></li>
-<li><p>2020-01-22 11:45: <a href="a2-c33.pdf">Assignment 2</a> is final, and is going up on Quercus in a moment. Two short questions.</p></li>
-<li><p>2020-01-22 10:30: <a href="a1-c33.pdf">My solutions to assignment 1</a>.</p></li>
-<li><p>2020-01-21 14:30: trying to prepare for me being away: a draft <a href="a3-c33.pdf">Assignment 3</a>, due on February 4. This might be doable after Thursday’s lecture this week.</p></li>
-<li><p>2020-01-21 13:30: a couple of links: the <a href="https://en.wikipedia.org/wiki/Welch%27s_t-test">Wikipedia page on Welch’s test</a>, the link on <a href="https://en.wikipedia.org/wiki/Welch%E2%80%93Satterthwaite_equation">where that crazy df formula comes from</a>, and <a href="http://ritsokiguess.site/STAC32/pasi-sas.pdf">my extended discussion of two-sample <span class="math inline">\(t\)</span></a> (starts on page 81). My answer is different from Wikipedia’s, which almost certainly means that mine is wrong, but the process is sound.</p></li>
-<li><p>2020-01-21 11:15: On the agenda for this week: two-sample <span class="math inline">\(t\)</span>-tests, power of hypothesis tests.</p></li>
-<li><p>2020-01-20 15:30 (edited 2020-01-21 14:00): <a href="a2-c33.pdf">Draft assignment 2</a>. This is on one-sample and two-sample <span class="math inline">\(t\)</span>-tests, and will go up on Quercus tomorrow. The power stuff will be on next week’s assignment.</p></li>
-<li><p>2020-01-19 17:00: tomorrow’s tutorial is a chance to work on <a href="a1-c33.pdf">Assignment 1</a> with help present. Reminder: if you want to be there for an hour other than the one you’re registered for, you can, <em>if</em> there is room.</p></li>
-<li><p>2020-01-16 13:30: <a href="jays15-home.csv">Blue jays data</a> for today’s class.</p></li>
-<li><p>2020-01-13 14:20: <a href="a1-c33.pdf">Assignment 1</a> is up on Quercus. This should be doable after tomorrow’s lecture.</p></li>
-<li><p>2020-01-13 13:20: for those that were in the 09:00 and 10:00 tutorials, there was supposed to be a place on Quercus to practice handing in your work, and there wasn’t. Sorry. There is now, if you want to try it.</p></li>
-<li><p>2020-01-12 10:00: <a href="a0.pdf">Material for January 13 tutorial</a>. Work through this and verify that you get what I got. If you are stuck or confused in tutorial, raise your hand and someone will assist you.</p></li>
-<li><p>2020-01-07 14:00: first lecture was today. There was a mixup with the videorecording, so there is no video of this class. Sorry. There will be videos the rest of the way. Those who were not there should look at the lecture notes: pages 1-16 for the course rules and regulations; pages 17-30 for getting started with R Studio Cloud or pages 31-41 for installing R on your computer; pages 42-54 of reading in data files. (Yes, that is a lot; I went through fast or skipped things.)</p></li>
-<li><p>2019-12-29 17:05: lectures (for those in LEC01) start in week 1 (January 7): Tuesday 12:00-13:00 in IC 220 and Thursday 14:00-15:00 in SW 128. Those enrolled in LEC60 <em>do not</em> come to lectures, but watch the video only. There is tutorial space for everyone, LEC01 and LEC60, in BV 498 on Mondays. If you have a choice of tutorials you can attend, consider moving to one where there is more space, such as the 9:00 one, to free up space for others with less choice than you. Tutorials start in week 2 (January 13). The purpose of tutorials is to allow you to work on assignments or other problems with people (TAs or myself) around to help if you get stuck. The first tutorial, you’ll work through <a href="a0.pdf">a guided introduction to R</a>. This will prepare you for Assignment 1, which will be due the following week.</p></li>
-<li><p>2019-12-29 17:00: the <a href="http://q.utoronto.ca">Quercus</a> page for the course is up. That is where you will hand in assignments and check grades.</p></li>
-<li><p>2019-12-11 12:50: updated lecture notes.</p></li>
-<li><p>2019-06-17 12:20: lecture notes link seems to work.</p></li>
-<li><p>2019-05-29 11:50: a distant hello from the past.</p></li>
+<li>2020-12-04 13:00: organizing things for the 2021 online run of this course.</li>
 </ul>
 </div>
 </div>
@@ -548,7 +356,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

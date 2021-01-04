@@ -1,0 +1,32 @@
+# Lecture notes
+
+# The slides
+
+- By video:
+  - [Course outline](outline_c33_slides.pdf)  to be updated for winter 2021.
+  - [Running R](running_R_slides.pdf)
+  - [Reading data files](readfile_R_slides.pdf)
+  - [Making graphs](graphs_R_slides.pdf)
+  - [Numerical summaries](numsum_R_slides.pdf) 
+  - [Inference 1: 1- and 2-sample t](inference_1_R_slides.pdf)
+  - [The bootstrap for assessing sampling distributions (for extra insight)](bootstrap_R_slides.pdf)
+  - [Inference 2: power](inference_2_R_slides.pdf)
+  - [Inference 3: the sign test](inference_3_R_slides.pdf)
+  - [Inference 4: matched pairs, normal quantile plot](inference_4_R_slides.pdf)
+  - [Inference 5: Mood's median test, analysis of variance](inference_5_R_slides.pdf)
+  - [Writing reports](reports_R_slides.pdf)
+  - [Tidying data](tidying_R_slides.pdf)
+  - [Tidying and organizing data: extras](tidy_extra_R_slides.pdf)
+  - [When pivot-wider goes wrong](wider_wrong_slides.pdf)
+  - [Choosing rows and columns](choosing_R_slides.pdf)
+  - [Case study: the windmill data](windmill_slides.pdf)
+  - [Case study: the asphalt data](asphalt_slides.pdf)
+  - [Regression with categorical data](with_categ_R_slides.pdf)
+  - [Functions](functions_slides.pdf)
+  - [Dates and times](dates_and_times_slides.pdf)
+  - [Durations, intervals and periods](dip_slides.pdf)
+  - [Miscellanea](miscellanea_slides.pdf)
+  - [Vector and matrix algebra](vector_matrix_slides.pdf)
+  - [The bootstrap](bootstrap_slides.pdf)
+  - [Bayesian statistics with Stan](rstan_slides.pdf)
+
