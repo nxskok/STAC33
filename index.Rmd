@@ -15,6 +15,7 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-01-04 14:30: the course outline here will need editing to be suitable for this year's version of the course. I will do that later this week.
 - 2021-01-04 11:00: here's the plan for the course this year:
   - I will record lectures, 2-3 hours per week, and post the lecture links on Quercus. I will give you practice problems to work on for each lecture.
   - you will also have one hour of tutorial a week (live, on Mondays), where the TA will be available to answer questions and may talk about some of the practice problems.
