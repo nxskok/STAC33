@@ -2,8 +2,8 @@
 
 # The slides
 
-- By video:
-  - [Course outline](outline_c33_slides.pdf)  to be updated for winter 2021.
+- By course section (and probably by lecture video also):
+  - [Course outline](outline_c33_online_slides.pdf) updated for winter 2021.
   - [Running R](running_R_slides.pdf)
   - [Reading data files](readfile_R_slides.pdf)
   - [Making graphs](graphs_R_slides.pdf)
