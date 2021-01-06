@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-01-06 10:30: small error in course outline corrected. (Thank you to the student who spotted it.)
+- 2021-01-05 15:50: in the before-times, the lectures were on Tuesdays and Thursdays, so I will post the recorded lectures labelled with those days, so that you know where you stand. Tutorials start in week 2, so the first one for you will be on Monday January 18.
 - 2021-01-05 15:45: course outline should now be updated for 2021.
 - 2021-01-05 14:30: This course will be completely in R. If you want to learn some SAS (the material is the same as for this course), see [this website](http://ritsokiguess.site/SAS/).
 - 2021-01-04 14:30: the course outline here will need editing to be suitable for this year's version of the course. I will do that later this week.
