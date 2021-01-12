@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-01-12 15:30: in the time between the last note and now, I have learned enough about video-editing software to fashion a Lecture 1c (Thursday's lecture) out of a new introduction and most of a previously-recorded lecture that I think no longer contains any irrelevant stuff. Once you have watched and played along with Lecture 1b, which will get you used to running R and handling Notebooks, you can play along with Lecture 1c by downloading the code (link on Quercus next to the video), copy-pasting it into a notebook on your account, and running the code along with me. There will be two versions of the code, one from before the lecture, and one from after with the code as modified during the lecture. Also you will see a link to the appropriate problems in [PASIAS](http://ritsokiguess.site/pasias/) for you to practice with (solutions are after the problems). The problems for Lecture 1c contain reading in data and also drawing graphs (Lecture 2a), so you can hold off on the graph-drawing for now.
+
 - 2021-01-12 11:30: I decided to re-record Lecture 1b to be more detailed and more up-to-date, so the version that's on Quercus now you can watch all of (no need to skip anything). If you happen to have, on your computer, R, R Studio and the `tidyverse` all installed, you are ready to go for this course, but: 
   - if you have everything, you might like to make sure that it is up to date with `update.packages()`),   
   - if you are missing any of those things, watch the video to see how to get hold of what you are missing
