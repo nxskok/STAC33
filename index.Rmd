@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-01-18 14:00: Lecture 2a, on making graphs, is now up on Quercus and all the other places. The links to all these other places are on the Quercus Week 2 Lecture Videos page, which is itself in the Lecture Videos Module. I think. There are so many ways the lecture videos now need to be accessible that I am bound to forget some; remind me if I forget. On YouTube the lecture videos are "unlisted", meaning that the only way to find them is via the link on the Quercus page. I don't know whether that means you can also find them by subscribing to my YouTube channel or not. (I suspect not.) I would prefer to limit access, for now, to people registered in this course.
+
 - 2021-01-17 21:00: [some reading](https://ecampusontario.pressbooks.pub/learnonline/chapter/chapter-1/) about online learning.
 
 - 2021-01-16 22:00: I was really supposed to be not working today, but one of our number wondered where the slides were for the lecture videos, and I realized I had deleted the links to them while putting in the links to YouTube and for downloads. They are now back. In the week 1 lecture videos page, above the video viewer you will now see links for downloading, watching on YouTube, the lecture slides, the code I ran (usually there will also be links to the "after" code containing my edits during lecture as well), and some problems in PASIAS to work through. I hope that's everything now, though at this point on a Saturday night it is quite likely that I have forgotten something else.
