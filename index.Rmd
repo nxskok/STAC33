@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-01-23 11:45: all the lectures for week 3 (next week) are now up on [Quercus](http://q.utoronto.ca). As always, let me know if any of the multitudinous links point to the wrong place.
+
 - 2021-01-22 21:15: planning ahead a little: there will be two more videos for you in week 3, one about one- and two-sample $t$-tests in R, which is about an hour long, and one about the bootstrap in the context of inference for means, which is about 30 minutes. The latter is a kind of simple introduction to the bootstrap, which we study in more detail near the end of the course; it provides a nice way to get at "how normal is normal enough?" for these tests.
 
 - 2021-01-22 19:45: I just recorded a new video for you, which (for a change) is me doing actual algebra. This is not about R at all; it's to provide context for the one- and two-sample $t$ material that we'll be looking at in R Studio in week 3. I'm intending it to be a reminder of the distribution theory behind those tests, and also to introduce you to the Welch-Satterthwaite $t$-test that R uses as the default two-sample $t$-test (as opposed to the pooled test you derived in B57). This is going to be lecture 3a; lecture 3b will be back to me in R Studio doing these tests. My notes are [here](t-test-notes.pdf). (The technology, should you care, is a Wacom graphics tablet with pen, and software called Xournal for Linux that turns this into writing on lined paper.)
