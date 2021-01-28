@@ -15,6 +15,11 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-01-28 14:20: 
+  - I know you don't want to hear this since you are probably still working on this week's assignment, but Assignment 2 is now up, on one-sample and two-sample t-tests (the material of this week's lectures). There are two short questions. 
+  - I hope on Assignment 2 you will be able to look at what you handed in and check that it was what you meant. Quercus makes this a bit more ambiguous than I would like, but I think I have worked it out.
+  - Next week's lectures are on the power of tests, and the sign test. Before I put the lectures up, I need to decide whether I can use the ones I have or whether I need to record new ones (or add new intros or whatever).
+
 - 2021-01-23 11:45: all the lectures for week 3 (next week) are now up on [Quercus](http://q.utoronto.ca). As always, let me know if any of the multitudinous links point to the wrong place.
 
 - 2021-01-22 21:15: planning ahead a little: there will be two more videos for you in week 3, one about one- and two-sample $t$-tests in R, which is about an hour long, and one about the bootstrap in the context of inference for means, which is about 30 minutes. The latter is a kind of simple introduction to the bootstrap, which we study in more detail near the end of the course; it provides a nice way to get at "how normal is normal enough?" for these tests.
