@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-02-01 11:40: assignment 1 is closed. Here are [my solutions](a1_c33.pdf). You will note a lot of extra comment on what I was expecting to see from you. Remember your aim: not only to get a sensible answer in each case, but to *show convincingly* that you know *why* it is sensible. There are also pieces of extra discussion that will offer extra insight about the data you were looking at. Take a look at my solutions with your assignment, to help you understand what we are expecting from you on assignment 2.
+
 - 2021-01-29 13:00: next week's lectures are up on Quercus. (As I write, the YouTube versions are still processing. They take a bit longer.) As promised, power of tests and sign test. (I could use the lectures I had, so you get them a bit sooner.) I tried to get the links correct for each video, but if anything is mismatched, please let me know.
 
 - 2021-01-28 14:20: 
