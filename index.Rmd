@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-02-06 20:30: [Found on twitter tonight](https://twitter.com/JonR1183/status/1358133042531815428).
+
 - 2021-02-05 21:00: I changed my mind about how I wanted to arrange lectures for next week. I decided that I would talk about normal quantile plots first and matched pairs second (having in previous years done it the other way around). On the [lecture notes](notes.html) page, you will now see Inference sections 4a and 4b where I treat the two things separately. This means that I will be recording new lectures on this, probably this weekend sometime. It doesn't change anything about future assignments. A reminder that we have one more week of lectures and tutorials and such, one more assignment, and then it's reading week and we can take a break (or get caught up, whichever applies to you).
 
 - 2021-02-03 10:20: I have tried to organize Assignment 2 so that you can see what you handed in (and you don't have to get all panicky that it was the wrong thing).  The side effect of that is that you may see a "grade" of zero until the grader actually gets to it (which won't happen until next weekend). There seems not to be a good way to handle this, unfortunately. (When the assignment closes after Thursday night, all the non-grade "grades" will disappear and you will see your real grade when the grader has finished and I release the grades.)
