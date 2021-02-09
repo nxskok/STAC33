@@ -15,6 +15,14 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-02-09 14:45: Assignment 1 has been graded, and I will release the marks shortly. I need to remind you of a few things before I do that:
+  - the assignments have been graded on the scale in the [course outline](http://ritsokiguess.site/STAC33/outline_c33_online_slides.pdf), page 9. Please take a moment to familiarize yourself with this grading scale, because it may not be what you are used to.
+  - I am happy that Assignment 1 has been graded according to that scale.
+  - The grader has, as appropriate, added comments to explain the grading and to help you do better on future assignments.
+  - Read through your graded assignment with [my solutions](a1_c33.pdf) to understand why you got the grade you did. My solutions have a lot of extra discussion that it is worth your while reading through.
+  - It is not likely that grades will change on appeal, but if you wish to request a re-mark, you need to make a convincing case to me that your work has not been graded according to the grading scheme. "I got everything right" is *not* a convincing case, because you also need to show your understanding in the original assignment of why it is right (and, besides, in applied statistics there are not right and wrong answers, just answers that show more or less insight and understanding). Re-mark requests must be submitted in a window between one and three weeks after the assignment grades are released; for this assignment that means between February 16 and March 2, inclusive. I will not respond to any questions about grades on this assignment before February 16.
+  - The reason for this grading scheme is that we do not have exams in this course; the assignments are functioning as small take-home exams. The grading scheme rewards excellent work; if you can average a 9, you will get an A+; if you can average a 7, you will get a B-, and so on. But to get those grades, you will have to demonstrate A+ work (or B- work or whatever).
+
 - 2021-02-08 14:40: Assignment 1 is in process of being graded. I will release the marks when they are all done. Meanwhile, here are [my assignment 2 solutions](a2_c33.pdf).
 
 - 2021-02-08 11:35: Well, it seems as if I made only two (or possibly three) mistakes getting the week 5 lectures up. One was failing to attach the Page to the Module (the one where all the videos and links are; thanks to the student who spotted this), and another was getting the material mixed up. Lecture 5c should be on Mood's Median Test. I think I now have the right lecture up and links to the right things. The material on Analysis of Variance belongs in Lecture 6a, which will be after reading week; that lecture is also up but now in the right place. I probably need to split the slides up a bit more, but you have what you have, with the median test and ANOVA in the same slides but two different lectures.
