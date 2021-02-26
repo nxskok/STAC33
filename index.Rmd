@@ -15,7 +15,9 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
-- 2021-02-35 16:15: for those eager to get ahead, the week 7 and week 8 lectures are all up.
+- 2021-02-25 20:30: I somehow messed up linking to the slides for the week 8 lectures, but they are up now.
+
+- 2021-02-24 16:15: for those eager to get ahead, the week 7 and week 8 lectures are all up.
 
 - 2021-02-22 14:45: 
   - welcome back from reading week. I hope you got some rest, a chance to catch up, or whatever you were hoping for.
