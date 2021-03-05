@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-03-06 12:30: the week 9 lectures are up on Quercus, along with all the attendant stuff. As usual, let me know if anything doesn't match up.
+
 - 2021-03-02 10:00: in this week's "forgotten" department, [my solutions to assignment 4](a4_c33.pdf). Assignment 5 is open, due Thursday night. If I forgot or messed up anything else, let me know. I had some questions on email for which the answers would benefit everybody, so they are now on the discussion board.
 
 - 2021-02-25 20:30: I somehow messed up linking to the slides for the week 8 lectures, but they are up now.
