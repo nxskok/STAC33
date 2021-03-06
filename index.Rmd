@@ -15,6 +15,11 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-03-06 17:00: Assignment 4 has been graded. As usual, if you wish to complain about your mark, you need to do all of these:
+  - make sure you understand the grading scheme (which is in the course outline). To get a grade higher than 8, you need to show some extra insight or understanding, and if you have made any errors, the highest you should expect is a 7.
+  - make sure you understand what I was expecting by reading carefully through my solutions and the grader's comments along with your work.
+  - wait. Raise any issues with the assignment 4 grading between Mar 13 and Mar 27 (inclusive). Some students have emailed me already about it; there is no way you can have digested your work, the comments, and my solutions by now. Those emails will not be read.
+
 - 2021-03-06 12:30: the week 9 lectures are up on Quercus, along with all the attendant stuff. As usual, let me know if anything doesn't match up.
 
 - 2021-03-02 10:00: in this week's "forgotten" department, [my solutions to assignment 4](a4_c33.pdf). Assignment 5 is open, due Thursday night. If I forgot or messed up anything else, let me know. I had some questions on email for which the answers would benefit everybody, so they are now on the discussion board.
