@@ -15,7 +15,9 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
-- 2021-03-09 11:30: 
+- 2021-03-08 12:15: some of my data files, such as those in PASIAS, are temporarily unavailable because the server hosting them is down. The error is a "500 Server Error", which hopefully means all will be back when it is fixed. (Addendum: it is fixed.)
+
+- 2021-03-08 11:30: 
   - Assignment 5 has been graded. If you are unhappy about your mark, the same applies as for the other assignments. The window for this one is Mar 15-29 inclusive.
   - [My solutions](a5_c33.pdf) to Assignment 5.
 
