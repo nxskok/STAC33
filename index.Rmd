@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-03-14 19:15: for those of you outside Canada (or for those of you inside who haven't noticed yet), we are now on Daylight Time (UTC minus 4). This means that your assignments, live classes etc are an hour earlier until *you* go onto Daylight Time (if you do). In my courses, I'm not going to quibble about assignments being an hour late, but you will need to make sure you have the right time for your tutorial.
+
 - 2021-03-12 15:30: the lectures for week 10 are now up on Quercus. To follow later, Assignment 9 on these lectures. There is a bit extra to watch this week, about 2 1/2 hours, because I wanted to make sure we have time for the other things I want to show you: dates and times, a little about vector and matrix algebra, the bootstrap, and Bayesian statistics with Stan. I definitely want you to see the last of those, even if means shortening  something else.
 
 - 2021-03-08 12:15: some of my data files, such as those in PASIAS, are temporarily unavailable because the server hosting them is down. The error is a "500 Server Error", which hopefully means all will be back when it is fixed. (Addendum: it is fixed.)
