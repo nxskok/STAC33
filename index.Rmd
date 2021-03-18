@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-03-18 18:15: This issue has popped up for the second time, so sharing here: when you are doing the assignment, you might type `weather` and see some Toronto weather data for 2018 (which has not much to do with flights from New York in 2013, and also lacks a `visib` column). If that happens to you: it came from your lecture notes, and you can get rid of it with `rm(weather)`, and then typing `weather` will get you the one from `nycflights13`. If that doesn't work, you can explicitly ask for the one from `nycflights13` with `nycflights13::weather`, and that will definitely get the one you want.
+
 - 2021-03-15 13:20: Assignment 6 is closed. Here are [my solutions](a6_c33.pdf). The grader will get to it as soon as possible; meanwhile, I will get to the Assignment 4 regrade requests, but that will not be immediately, because I have some other things to take care of first.
 
 - 2021-03-14 19:15: for those of you outside Canada (or for those of you inside who haven't noticed yet), we are now on Daylight Time (UTC minus 4). This means that your assignments, live classes etc are an hour earlier until *you* go onto Daylight Time (if you do). In my courses, I'm not going to quibble about assignments being an hour late, but you will need to make sure you have the right time for your tutorial.
