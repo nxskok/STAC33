@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-03-23 18:05: plans for the last two weeks of the semester: for week 11, dates and times, and vectors and matrices. Assignment 10 will be on these, due on the Thursday of week 12. The week 12 lectures will be a more detailed look at the bootstrap, followed by a look at Bayesian statistics with Stan. As we have planned it, there will be no assignments on these, but I will aim to push some suitable practice problems your way.
+
 - 2021-03-23 10:00: grades for assignments 6 and 7 are released. If you wish to contest your grade on either of those, you know what you need to do:
   - make sure you understand the grading scheme (in the course outline)
   - read my solutions ([assgt 6](a6_c33.pdf) and [assgt 7](a7_c33.pdf)) carefully, so that you know what we were expecting.
