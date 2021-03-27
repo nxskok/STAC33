@@ -15,6 +15,10 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-03-26 21:15:
+  - I just put up assignment 10 (the last one), on the material in week 11. This will open on April 6 and be due on April 8. 
+  - Vicki Boykis is always worth reading, this one on [implicit vs. explicit knowledge](https://veekaybee.github.io/2021/03/26/data-ghosts/) in the working world of data science/machine learning.
+
 - 2021-03-24 15:30: the week 11 lectures are up on Quercus, on the material promised yesterday. I recorded a new lecture on vectors and matrices. This material will be on the final Assignment 10. 
 
 - 2021-03-23 18:05: plans for the last two weeks of the semester: for week 11, dates and times, and vectors and matrices. Assignment 10 will be on these, due on the Thursday of week 12. The week 12 lectures will be a more detailed look at the bootstrap, followed by a look at Bayesian statistics with Stan. As we have planned it, there will be no assignments on these, but I will aim to push some suitable practice problems your way.
