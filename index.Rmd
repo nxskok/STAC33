@@ -15,6 +15,9 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-03-29 13:00: I took a look at the videos I recorded last year for the last week of material, and they all seem to be good (a more detailed look at the bootstrap, and two lectures on Bayesian inference). So I will am currently uploading these. You can tell that they come from last year because (a) I did not have headphones yet, and (b) I actually have a proper haircut!
+A reminder that there is no assignment on the material in week 12, but I will see whether I can come up with some practice problems for you to try. There is a little bit in [PASIAS](http://ritsokiguess.site/pasias/).
+
 - 2021-03-26 21:15:
   - I just put up assignment 10 (the last one), on the material in week 11. This will open on April 6 and be due on April 8. 
   - Vicki Boykis is always worth reading, this one on [implicit vs. explicit knowledge](https://veekaybee.github.io/2021/03/26/data-ghosts/) in the working world of data science/machine learning.
