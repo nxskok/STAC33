@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-03-30 11:00: [Some more reading](https://counting.substack.com/p/data-cleaning-is-analysis-not-grunt) for you.
+
 - 2021-03-29 14:30: a bit late in the game to find out, I know, but we at U of T appear to have a free online R Studio, that works like R Studio Cloud. Go [here](https://jupyter.utoronto.ca/hub/login). Before you click the orange "log in to start", select the *second* radio button above it, the one labelled R Studio, and then log in with UTorID (or U of T email, I forget) and password. It looks as if a lot of packages are already installed, but you can install things as you need. You can create projects, etc, as you wish, and if you logout and log back in again it seems to remember where you were. In the unlikely event that you have some time, have a play with it and see what it does.
 
 - 2021-03-29 13:00: I took a look at the videos I recorded last year for the last week of material, and they all seem to be good (a more detailed look at the bootstrap, and two lectures on Bayesian inference). So I will am currently uploading these. You can tell that they come from last year because (a) I did not have headphones yet, and (b) I actually have a proper haircut!
