@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-04-02 14:45: the course evaluation period is now open, until April 12. You should have a personalized link in your email, or there is a "Course Evals" tab in Quercus. Please take a few minutes to fill out your evaluation of this course. If you liked the course,  your comments will help show that to my departmental committee. If you didn't like the course, or some part of it, your *constructive* feedback will help me make the course better next time. Saying that you hated the course without saying how it could be better doesn't help anyone; in fact, reflecting on the course and your own experience in it will help *you* improve your own learning in the future.
+
 - 2021-03-31 16:00: thanks to the student who reminded me that I hadn't posted [my assignment 8 solutions](a8_c33.pdf). Now I have.
 
 - 2021-03-30 11:00: [Some more reading](https://counting.substack.com/p/data-cleaning-is-analysis-not-grunt) for you.
