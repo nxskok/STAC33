@@ -15,6 +15,13 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-04-04 21:30: 
+  - I have been spending some of the weekend putting together an "Assignment 11" (in quotes) based on the material in the week 12 lectures. The quotes are meant to be a giveaway that there is nothing you have to do; indeed, the "assignment" when I post it (later in the week) comes with my answers, so you can work through it as you wish. 
+  
+  - As I write this, assignment 8 is about half graded, and the grader for assignment 9 will shortly be starting work. The final assignment, number 10, will be due on Thursday. I will post my solutions to assignment 9 tomorrow, so that you can read through them and see how you did.
+  
+  - The last tutorial of the semester is tomorrow (Monday). I always feel weird about working on Easter Monday; I grew up in England where Easter Monday is an official holiday the same as Good Friday and everyone gets a four-day weekend, so the kind of in-between nature of Easter Monday in Canada is odd. My daughter gets the day off (middle) school, but we don't, and most but not all people have a workday.  
+
 - 2021-04-02 14:45: the course evaluation period is now open, until April 12. You should have a personalized link in your email, or there is a "Course Evals" tab in Quercus. Please take a few minutes to fill out your evaluation of this course. If you liked the course,  your comments will help show that to my departmental committee. If you didn't like the course, or some part of it, your *constructive* feedback will help me make the course better next time. Saying that you hated the course without saying how it could be better doesn't help anyone; in fact, reflecting on the course and your own experience in it will help *you* improve your own learning in the future.
 
 - 2021-03-31 16:00: thanks to the student who reminded me that I hadn't posted [my assignment 8 solutions](a8_c33.pdf). Now I have.
