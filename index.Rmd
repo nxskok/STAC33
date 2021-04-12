@@ -15,6 +15,18 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-04-11 21:00: We are now done with assignments. [My solutions to assignment 10](a10_c33.pdf), and (in the unlikely event that you want this right now) some [practice problems for week 12 of lectures](a11_c33.pdf), with nothing to hand in.
+
+- 2021-04-08 16:22: passing on an opportunity: UofT will hold a virtual ASA DataFest competition from Wednesday, April 28, to Sunday, May 2, 2021.
+(for more information on ASA DataFest see https://ww2.amstat.org/education/datafest/, 
+and for past UofT events see https://utorontodatafest.wordpress.com/.)
+If you would like to participate:
+
+  - create a team of 2 to 4 current UofT undergraduates from any discipline, and 
+  - register your team at https://forms.office.com/r/Jgum1g739M by Friday April 16 11:59pm ET
+
+Selected teams will be notified by email by Wednesday April 21, 2021. (I don't know any more about it than this.)
+
 - 2021-04-07 10:30: more about 
 [normal quantile plots](https://www.tjmahr.com/quantile-quantile-plots-from-scratch/) and a recommendation instead to use a "worm plot". What do you think?
 
