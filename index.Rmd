@@ -15,6 +15,8 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-04-16 15:00: grading is happening for assignment 9. There are fewer assignment 10s (by the looks of it), so that should go faster.
+
 - 2021-04-11 21:00: We are now done with assignments. [My solutions to assignment 10](a10_c33.pdf), and (in the unlikely event that you want this right now) some [practice problems for week 12 of lectures](a11_c33.pdf), with nothing to hand in.
 
 - 2021-04-08 16:22: passing on an opportunity: UofT will hold a virtual ASA DataFest competition from Wednesday, April 28, to Sunday, May 2, 2021.
