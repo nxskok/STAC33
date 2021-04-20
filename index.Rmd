@@ -15,10 +15,14 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
+- 2021-04-20 10:45: A 0.5 in a course grade was supposed to be rounded up, but they were not all. This has now been corrected. The only place where this made any meaningful difference is to those who got 72.5; this has been rounded up to 73, B. (In case I didn't mention it, 0.5 gets rounded up and anything less gets rounded down, with the additional proviso that I don't award one percent below a grade boundary; that gets rounded down.)
+
+- 2021-04-19 12:15: course grades are submitted.
+
 - 2021-04-19 10:00: I am about to release the grades for assignments 9 and 10, from which you will be able to calculate your course grade. This time, you might find your comments under "additional comments" rather than "assignment comments". Look in both places.
 I will then be calculating and submitting course grades, because they are due today. Some points:
   1. If you are disappointed with your course grade, do not appeal to me to change it. You have had 10 chances to improve it; it was up to you to take those chances.
-  1. If you think there has been an error in the grading of [Assignment 9](a9_c33.pdf) or [Assignment 10](a10_c33.pdf), I am willing to look at it again, provided you note *all* of the following:
+  1. If you think there has been an error in the grading of [Assignment 9](a9_c33.pdf) or [Assignment 10](a10_c33.pdf), I am willing to look at it again and submit if necessary a change of grade for you, provided you note *all* of the following:
      a. you explain clearly and specifically, by reference to the comments you received, the grading standards in the course outline, and to my solutions, why you deserve a different grade. If there are errors of any substance, do not expect to receive more than 7; if you want more than 8, you will need to point to evidence of clear understanding or extra *relevant* insight.
      a. a change in mark in Assignment 9 or 10 may not make a meaningful difference to your course grade (it may not change your grade points for the course). For example, a change from 74 to 75 is not worth appealing. Do not expect your mark for an assignment to change by more than one point.
      a. your email request must reach me between Tuesday April 20 at noon and Thursday April 22 at noon (Toronto time).
