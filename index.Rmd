@@ -15,7 +15,9 @@ In this course, we learn R, and how to use this software for data organization a
 
 ## News (most recent at the top)
 
-- 2021-04-20 10:45: A 0.5 in a course grade was supposed to be rounded up, but they were not all. This has now been corrected. The only place where this made any meaningful difference is to those who got 72.5; this has been rounded up to 73, B. (In case I didn't mention it, 0.5 gets rounded up and anything less gets rounded down, with the additional proviso that I don't award one percent below a grade boundary; that gets rounded down.)
+- 2021-04-20 10:45 edited 2021-04-22 10:45: 
+  - A 0.5 in a course grade was supposed to be rounded up, but they were not all. This has now been corrected. The only place where this made any meaningful difference is to those who got 72.5; this has been rounded up to 73, B.
+  - 0.5 gets rounded up and anything less gets rounded down, with the additional proviso that I don't award one percent below a grade boundary; that gets rounded down. So, for example, a course grade of 72.4 becomes 71, because 73 is a B and 72.4 is not a B.
 
 - 2021-04-19 12:15: course grades are submitted.
 
